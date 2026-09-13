@@ -15,7 +15,9 @@ from collections import defaultdict
 # URL de l'export iCal personnel fourni par Synapses (SupOptique)
 # Peut être surchargée par une variable d'environnement ou un Secret GitHub "ICAL_URL"
 DEFAULT_ICAL_URL = "https://synapses.institutoptique.fr/calendar/ical/65698bc78b16954139a67a7b303a851d8296e61895fcfee4586b9d3d05a4a83d"
-ICAL_URL = os.environ.get("ICAL_URL", DEFAULT_ICAL_URL).strip()
+_env_ical = os.environ.get("ICAL_URL", "").strip()
+ICAL_URL = _env_ical if _env_ical else DEFAULT_ICAL_URL
+
 
 # Préfixe pour les noms de fichiers générés (ex: SO_CM.ics)
 FILE_PREFIX = "SO_"

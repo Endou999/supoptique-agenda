@@ -77,7 +77,7 @@ Le script génère les calendriers suivants à la racine du dépôt :
 2. Cliquez sur le bouton **Raw** en haut à droite.
 3. Copiez l'URL de votre navigateur. Le lien doit avoir la forme suivante :
    ```
-   https://raw.githubusercontent.com/<VOTRE_PSEUDO>/<NOM_DU_REPO>/main/SO_CM.ics
+   https://raw.githubusercontent.com/Endou999/supoptique-agenda/main/SO_CM.ics
    ```
 4. Dans **Google Calendar** :
    - Dans le volet gauche, à côté de *Autres agendas*, cliquez sur **+** puis **À partir de l'URL**.
