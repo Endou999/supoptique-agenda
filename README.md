@@ -6,11 +6,13 @@ Ce dépôt permet de récupérer automatiquement votre emploi du temps de **SupO
 
 ## 🌟 Intérêts principaux du script
 
-* **Nettoyage et lisibilité des cours :** Les intitulés bruts de Synapses (ex: `5N-025-PHO (Cours magistral)`) sont automatiquement convertis en titres clairs et explicites (ex: `Optique physique (CM)`, `Anglais (TD)`).
+* **Nettoyage et lisibilité des cours :** Les intitulés bruts de Synapses (ex: `5N-025-PHO (Cours magistral)`) sont automatiquement convertis en titres clairs et explicites (ex: `🎓 Optique physique (CM)`, `✏️ Anglais (TD)`).
+* **Noms d'agendas automatiques :** Les calendriers intègrent la métadonnée standard `X-WR-CALNAME` (`Cours Magistraux`, `Travaux Dirigés`, etc.) pour s'intituler proprement dès l'importation.
+* **Raccourcissement mobile (Alias) :** Les matières à noms à rallonge (comme *Outils Numériques pour l'Ingénieur·e en Physique - 1*) sont automatiquement abrégées (ex: `ONIP 1`) pour ne pas être tronquées sur écran de smartphone ou widget.
 * **Localisation précise :** Les salles sont automatiquement extraites et assignées directement au champ **Lieu** (`LOCATION`) de l'événement.
-* **Fusion des doublons multi-salles :** Si plusieurs salles sont réservées pour une même session (ex: semaine intensive d'anglais), les salles sont fusionnées proprement sur un créneau unique plutôt que de créer des blocs superposés.
+* **Fusion des doublons multi-salles :** Si plusieurs salles sont réservées pour une même session (ex: semaine intensive d'anglais), les salles sont fusionnées proprement sur un créneau unique (`Salle S2.8, Salle S2.10`) plutôt que de créer des blocs superposés.
 * **Code couleur par type de séance :** L'emploi du temps est découpé en plusieurs fichiers distincts (`CM`, `TD`, `TP`, `EXAM`, `AUTRE`). En important chaque fichier séparément, vous pouvez leur attribuer des couleurs différentes dans Google ou Apple Calendar. Un fichier global `SO_ALL.ics` est également disponible.
-* **Description enrichie :** Chaque événement contient dans sa description le code du module, le groupe, les intervenants et la salle.
+* **Description enrichie :** Chaque événement contient dans sa description le nom complet officiel de la matière, le code du module, le groupe, les intervenants et la salle.
 
 ---
 
@@ -28,7 +30,7 @@ Si ce n'est pas déjà fait, forkez ou clonez ce dépôt sur votre compte GitHub
 
 Deux méthodes sont possibles :
 
-#### Option A (Recommandée pour garder votre lien secret si le dépôt est public) :
+#### Option A (Recommandée pour masquer votre token si le dépôt est public) :
 1. Allez dans les **Settings** de votre dépôt GitHub.
 2. Cliquez sur **Secrets and variables** > **Actions** > **New repository secret**.
 3. Nom : `ICAL_URL`
@@ -43,45 +45,57 @@ DEFAULT_ICAL_URL = "https://synapses.institutoptique.fr/calendar/ical/VOTRE_TOKE
 
 ---
 
-### 4. (Optionnel) Filtrer des options via la `BLACKLIST`
-Si vous êtes inscrit à une option ou un module que vous ne suivez pas, ajoutez son mot-clé dans la liste `BLACKLIST` au début de `export_supoptique.py` :
+### 4. Personnalisation optionnelle
 
-```python
-BLACKLIST = [
-    # "NOM_OPTION_A_IGNORER",
-]
-```
+Au début du fichier `export_supoptique.py`, vous pouvez personnaliser :
+
+* **Activer / Désactiver les emojis :**
+  ```python
+  USE_EMOJIS = True   # Mettez False si vous préférez des titres sobres sans emoji
+  ```
+* **Ajouter des alias de matières :**
+  ```python
+  ALIASES = {
+      "Outils Numériques pour l'Ingénieur·e en Physique - 1": "ONIP 1",
+      # Ajoutez d'autres raccourcis ici si besoin
+  }
+  ```
+* **Filtrer des options non suivies (`BLACKLIST`) :**
+  ```python
+  BLACKLIST = [
+      # "NOM_OPTION_A_IGNORER",
+  ]
+  ```
 
 ---
 
 ### 5. Activer l'automatisation GitHub Actions
 1. Allez dans l'onglet **Actions** de votre dépôt GitHub.
-2. Autorisez l'exécution des workflows si demandé.
-3. Le workflow `Update SupOptique Calendars` s'exécutera automatiquement **toutes les 2 heures**.
-4. Vous pouvez aussi le lancer manuellement à tout moment via le bouton **Run workflow**.
+2. Le workflow `Update SupOptique Calendars` s'exécutera automatiquement **toutes les 2 heures**.
+3. Vous pouvez aussi le lancer manuellement à tout moment via le bouton **Run workflow**.
 
 ---
 
 ## 📅 Importer dans Google Calendar ou Apple Calendar
 
 Le script génère les calendriers suivants à la racine du dépôt :
-* `SO_CM.ics` : Cours Magistraux
-* `SO_TD.ics` : Travaux Dirigés
-* `SO_TP.ics` : Travaux Pratiques
-* `SO_EXAM.ics` : Examens, Partiels, Contrôles continus
+* `SO_CM.ics` : Cours Magistraux (`🎓 CM`)
+* `SO_TD.ics` : Travaux Dirigés (`✏️ TD`)
+* `SO_TP.ics` : Travaux Pratiques (`🔬 TP`)
+* `SO_EXAM.ics` : Examens, Partiels, Contrôles continus (`📝 Exam`)
 * `SO_AUTRE.ics` : Autres créneaux éventuels
 * `SO_ALL.ics` : Calendrier complet réunissant tous les cours
 
 ### Procédure d'importation :
-1. Sur GitHub, ouvrez l'un des fichiers `.ics` (ex: `SO_CM.ics`).
-2. Cliquez sur le bouton **Raw** en haut à droite.
-3. Copiez l'URL de votre navigateur. Le lien doit avoir la forme suivante :
+1. Dans Google Calendar, à gauche à côté de **Autres agendas**, cliquez sur **+** puis **À partir de l'URL**.
+2. Collez l'URL Raw correspondant au type de cours, par exemple :
    ```
    https://raw.githubusercontent.com/Endou999/supoptique-agenda/main/SO_CM.ics
    ```
-4. Dans **Google Calendar** :
-   - Dans le volet gauche, à côté de *Autres agendas*, cliquez sur **+** puis **À partir de l'URL**.
-   - Collez le lien direct.
-   - Cliquez sur **Ajouter un agenda**.
-   - Personnalisez la couleur de cet agenda selon vos préférences (ex: bleu pour les CM, vert pour les TD, jaune pour les TP, rouge pour les examens).
-5. Répétez l'opération pour les autres types (`SO_TD.ics`, `SO_TP.ics`, etc.).
+3. Cliquez sur **Ajouter un agenda**.
+4. Dans la liste à gauche, cliquez sur les trois points `⋮` à côté du calendrier ajouté pour lui attribuer la couleur de votre choix.
+5. Répétez pour les autres fichiers (`SO_TD.ics`, `SO_TP.ics`, `SO_EXAM.ics`).
+
+> [!TIP]
+> **Délai de rafraîchissement Google Calendar :**  
+> Google Calendar interroge les flux externes toutes les 8h à 24h. Si vous avez une modification de dernière minute sur Synapses et souhaitez forcer Google Calendar à recharger immédiatement votre calendrier, ajoutez simplement un paramètre à la fin du lien dans Google Calendar (ex : `.../SO_CM.ics?v=2`).

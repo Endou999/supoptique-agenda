@@ -18,9 +18,37 @@ DEFAULT_ICAL_URL = "https://synapses.institutoptique.fr/calendar/ical/65698bc78b
 _env_ical = os.environ.get("ICAL_URL", "").strip()
 ICAL_URL = _env_ical if _env_ical else DEFAULT_ICAL_URL
 
-
 # Préfixe pour les noms de fichiers générés (ex: SO_CM.ics)
 FILE_PREFIX = "SO_"
+
+# Activer ou désactiver les emojis dans les titres (True / False)
+USE_EMOJIS = True
+
+# Emojis par type de cours
+EMOJIS = {
+    "CM": "🎓",
+    "TD": "✏️",
+    "TP": "🔬",
+    "EXAM": "📝",
+    "AUTRE": "📌"
+}
+
+# Dictionnaire d'abréviations / alias pour raccourcir les noms trop longs sur mobile
+ALIASES = {
+    "Outils Numériques pour l'Ingénieur·e en Physique - 1": "ONIP 1",
+    "Outils Numériques pour l'Ingénieur·e en Physique": "ONIP",
+    "Mathématiques & signal 1": "Maths & Signal 1",
+}
+
+# Noms d'affichage des calendriers dans Google / Apple Calendar (X-WR-CALNAME)
+CALENDAR_NAMES = {
+    "CM": "Cours Magistraux",
+    "TD": "Travaux Dirigés",
+    "TP": "Travaux Pratiques",
+    "EXAM": "Examens",
+    "AUTRE": "Divers",
+    "ALL": "Emploi du temps"
+}
 
 # Liste des mots-clés à exclure (en majuscules).
 # Si un intitulé ou une description contient l'un de ces mots, l'événement est ignoré.
@@ -30,6 +58,16 @@ BLACKLIST = [
 
 # Types de cours supportés et leurs fichiers associés
 CATEGORIES = ["CM", "TD", "TP", "EXAM", "AUTRE"]
+
+
+def init_calendar(name):
+    """
+    Initialise un calendrier avec les métadonnées de nom et fuseau horaire.
+    """
+    cal = ics.Calendar()
+    cal.extra.append(ics.grammar.parse.ContentLine(name="X-WR-CALNAME", value=name))
+    cal.extra.append(ics.grammar.parse.ContentLine(name="X-WR-TIMEZONE", value="Europe/Paris"))
+    return cal
 
 
 def determine_category_and_type(raw_type, raw_summary, full_desc):
@@ -130,12 +168,18 @@ def parse_event_details(event):
 
     cat, short_type = determine_category_and_type(raw_type, event.name or "", desc)
     subject = clean_subject_name(subjects, cat, code)
-    title = f"{subject} ({short_type})"
+
+    # Alias / Raccourci pour l'affichage si configuré
+    display_subject = ALIASES.get(subject, subject)
+
+    # Ajout d'emoji si activé
+    prefix_emoji = f"{EMOJIS.get(cat, '📌')} " if USE_EMOJIS else ""
+    title = f"{prefix_emoji}{display_subject} ({short_type})"
 
     # Lieu : priorité à la localisation de l'événement, sinon la salle dans la description
     location = (event.location or rooms or "").strip()
 
-    # Description nettoyée et enrichie
+    # Description nettoyée et enrichie (garde le nom complet officiel)
     desc_parts = [
         f"Matière : {subject}",
         f"Type : {raw_type or short_type}",
@@ -154,6 +198,7 @@ def parse_event_details(event):
     return {
         "title": title,
         "subject": subject,
+        "display_subject": display_subject,
         "cat": cat,
         "short_type": short_type,
         "code": code,
@@ -182,7 +227,7 @@ def get_edt():
     print(f"=== Synchronisation de l'Emploi du Temps SupOptique ===")
     print(f"Téléchargement du flux iCal depuis Synapses...")
 
-    if not ICAL_URL:
+    if not ICAL_URL or "VOTRE_TOKEN" in ICAL_URL:
         raise ValueError("Erreur : L'URL de l'agenda Synapses n'est pas configurée.")
 
     headers = {
@@ -220,8 +265,8 @@ def get_edt():
         print(f"-> {skipped_blacklist} événements ignorés via la BLACKLIST.")
 
     # Création des calendriers par catégorie et d'un calendrier global complet
-    cals = {cat: ics.Calendar() for cat in CATEGORIES}
-    cal_all = ics.Calendar()
+    cals = {cat: init_calendar(CALENDAR_NAMES.get(cat, cat)) for cat in CATEGORIES}
+    cal_all = init_calendar(CALENDAR_NAMES.get("ALL", "Emploi du temps"))
 
     total_kept = 0
     for key, items in grouped_events.items():
