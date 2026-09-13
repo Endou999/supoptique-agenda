@@ -1,6 +1,6 @@
-BEGIN:VCALENDAR
-X-WR-CALNAME:Divers
-X-WR-TIMEZONE:Europe/Paris
-VERSION:2.0
-PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VCALENDAR
+X-WR-CALNAME:Divers
+X-WR-TIMEZONE:Europe/Paris
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
 END:VCALENDAR
