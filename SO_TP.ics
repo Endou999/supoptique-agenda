@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
+DTEND:20261208T121500Z
+DTSTART:20261208T073000Z
+SUMMARY:Optique physique (TP)
+UID:ApEdtElv_69647
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
+DTEND:20261117T121500Z
+DTSTART:20261117T073000Z
+SUMMARY:Optique physique (TP)
+UID:ApEdtElv_69650
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
+DTEND:20261103T121500Z
+DTSTART:20261103T073000Z
+SUMMARY:Optique physique (TP)
+UID:ApEdtElv_69652
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
+DTEND:20261013T111500Z
+DTSTART:20261013T063000Z
+SUMMARY:Optique physique (TP)
+UID:ApEdtElv_69655
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optoélectronique\nType : Travaux pratiques\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4
+DTEND:20260922T111500Z
+DTSTART:20260922T063000Z
+SUMMARY:Optoélectronique (TP)
+UID:ApEdtElv_69516
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
+DTEND:20260929T111500Z
+DTSTART:20260929T063000Z
+SUMMARY:Optique physique (TP)
+UID:ApEdtElv_69657
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optoélectronique\nType : Travaux pratiques\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4
+DTEND:20261020T111500Z
+DTSTART:20261020T063000Z
+SUMMARY:Optoélectronique (TP)
+UID:ApEdtElv_69520
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
+DTEND:20260915T111500Z
+DTSTART:20260915T063000Z
+SUMMARY:Optique physique (TP)
+UID:ApEdtElv_69659
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optoélectronique\nType : Travaux pratiques\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4
+DTEND:20261006T111500Z
+DTSTART:20261006T063000Z
+SUMMARY:Optoélectronique (TP)
+UID:ApEdtElv_69518
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optoélectronique\nType : Travaux pratiques\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4
+DTEND:20261110T121500Z
+DTSTART:20261110T073000Z
+SUMMARY:Optoélectronique (TP)
+UID:ApEdtElv_69523
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 1\nType : Travaux pratiques\nCode : 5N-029-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : ARQUES Nathan\, DIAGNE Talla\nSalle(s) : Salle S2.6
+DTEND:20261014T083000Z
+LOCATION:Salle S2.6
+DTSTART:20261014T063000Z
+SUMMARY:Mathématiques & signal 1 (TP)
+UID:ApEdtElv_67565
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 1\nType : Travaux pratiques\nCode : 5N-029-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : ARQUES Nathan\, DIAGNE Talla\nSalle(s) : Salle S2.6
+DTEND:20261014T104500Z
+LOCATION:Salle S2.6
+DTSTART:20261014T084500Z
+SUMMARY:Mathématiques & signal 1 (TP)
+UID:ApEdtElv_67566
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optoélectronique\nType : Travaux pratiques\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4
+DTEND:20261215T121500Z
+DTSTART:20261215T073000Z
+SUMMARY:Optoélectronique (TP)
+UID:ApEdtElv_69528
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optoélectronique\nType : Travaux pratiques\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4
+DTEND:20261124T121500Z
+DTSTART:20261124T073000Z
+SUMMARY:Optoélectronique (TP)
+UID:ApEdtElv_69525
+END:VEVENT
+END:VCALENDAR
