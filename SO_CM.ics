@@ -92,6 +92,14 @@ SUMMARY:🎓 Optique instrumentale (CM)
 UID:ApEdtElv_67330
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Présentation des sites - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20261015T083000Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20261015T070000Z
+SUMMARY:🎓 Présentation des sites - 1A S5 Réunion et Présentation (CM)
+UID:ApEdtElv_68068
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : DUPUIS Guillaume\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261104T143000Z
 LOCATION:Amphithéâtre Palaiseau
