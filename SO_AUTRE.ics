@@ -3,4 +3,68 @@ X-WR-CALNAME:Divers
 X-WR-TIMEZONE:Europe/Paris
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle S2.9\, Salle S2.9B
+DTEND:20260907T153000Z
+LOCATION:Salle S2.11\, Salle S2.9\, Salle S2.9B
+DTSTART:20260907T120000Z
+SUMMARY:📌 Fres climat - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_68076
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle N2.1\, Salle S2.11
+DTEND:20260908T153000Z
+LOCATION:Salle N2.1\, Salle S2.11
+DTSTART:20260908T120000Z
+SUMMARY:📌 Fres climat - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_69200
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9B\, Salle S2.9
+DTEND:20260908T100000Z
+LOCATION:Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9B\, Salle S2.9
+DTSTART:20260908T063000Z
+SUMMARY:📌 2Tonnes - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_69202
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle N2.1
+DTEND:20260908T100000Z
+LOCATION:Salle S2.11\, Salle N2.1
+DTSTART:20260908T063000Z
+SUMMARY:📌 Fres climat - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_68082
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
+DTEND:20260908T153000Z
+LOCATION:Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
+DTSTART:20260908T120000Z
+SUMMARY:📌 2Tonnes - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_69205
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+DTEND:20260909T100000Z
+LOCATION:Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+DTSTART:20260909T063000Z
+SUMMARY:📌 2Tonnes - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_69210
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Pièce de théâtre - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DTEND:20260909T173000Z
+LOCATION:Auditorium Palaiseau
+DTSTART:20260909T160000Z
+SUMMARY:📌 Pièce de théâtre - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_69327
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Présentation des sites - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DTEND:20261015T083000Z
+LOCATION:Auditorium Palaiseau
+DTSTART:20261015T070000Z
+SUMMARY:📌 Présentation des sites - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_68068
+END:VEVENT
 END:VCALENDAR

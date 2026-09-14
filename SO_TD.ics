@@ -12,19 +12,19 @@ SUMMARY:✏️ Maths & Signal 1 (TD)
 UID:ApEdtElv_66949
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.9A
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.9A
 DTEND:20261125T093000Z
 LOCATION:Salle S2.9A
 DTSTART:20261125T080000Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:✏️ Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68262
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
 DTEND:20261209T093000Z
 LOCATION:Salle S2.18
 DTSTART:20261209T080000Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:✏️ Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68264
 END:VEVENT
 BEGIN:VEVENT
@@ -36,35 +36,35 @@ SUMMARY:✏️ Optique instrumentale (TD)
 UID:ApEdtElv_69264
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
 DTEND:20260916T083000Z
 LOCATION:Salle S2.18
 DTSTART:20260916T070000Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:✏️ Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68252
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
 DTEND:20260923T083000Z
 LOCATION:Salle S2.18
 DTSTART:20260923T070000Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:✏️ Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68253
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
 DTEND:20260930T083000Z
 LOCATION:Salle S2.18
 DTSTART:20260930T070000Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:✏️ Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68254
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
 DTEND:20261104T093000Z
 LOCATION:Salle S2.18
 DTSTART:20261104T080000Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:✏️ Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68259
 END:VEVENT
 BEGIN:VEVENT
@@ -196,11 +196,11 @@ SUMMARY:✏️ Optoélectronique (TD)
 UID:ApEdtElv_68909
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
 DTEND:20261216T093000Z
 LOCATION:Salle S2.18
 DTSTART:20261216T080000Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:✏️ Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68353
 END:VEVENT
 BEGIN:VEVENT
@@ -276,11 +276,11 @@ SUMMARY:✏️ Mécanique quantique (TD)
 UID:ApEdtElv_69317
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20260921T083000Z
 LOCATION:Salle S2.7
 DTSTART:20260921T063000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:✏️ ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66561
 END:VEVENT
 BEGIN:VEVENT
@@ -356,43 +356,43 @@ SUMMARY:✏️ Anglais (TD)
 UID:ApEdtElv_67678
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261019T083000Z
 LOCATION:Salle S2.7
 DTSTART:20261019T063000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:✏️ ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66543
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261005T083000Z
 LOCATION:Salle S2.7
 DTSTART:20261005T063000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:✏️ ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66545
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261012T083000Z
 LOCATION:Salle S2.7
 DTSTART:20261012T063000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:✏️ ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66535
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20260928T083000Z
 LOCATION:Salle S2.7
 DTSTART:20260928T063000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:✏️ ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66536
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20260914T083000Z
 LOCATION:Salle S2.7
 DTSTART:20260914T063000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:✏️ ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66526
 END:VEVENT
 BEGIN:VEVENT
@@ -428,43 +428,43 @@ SUMMARY:✏️ Anglais (TD)
 UID:ApEdtElv_66504
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
 DTEND:20261019T151500Z
 LOCATION:Salle S2.14
 DTSTART:20261019T134500Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:✏️ Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68756
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261102T093000Z
 LOCATION:Salle S2.7
 DTSTART:20261102T073000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:✏️ ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67871
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261109T093000Z
 LOCATION:Salle S2.7
 DTSTART:20261109T073000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:✏️ ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67872
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261116T093000Z
 LOCATION:Salle S2.7
 DTSTART:20261116T073000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:✏️ ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67873
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261123T093000Z
 LOCATION:Salle S2.7
 DTSTART:20261123T073000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:✏️ ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67874
 END:VEVENT
 BEGIN:VEVENT
@@ -476,19 +476,19 @@ SUMMARY:✏️ Mécanique quantique (TD)
 UID:ApEdtElv_68872
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261207T093000Z
 LOCATION:Salle S2.7
 DTSTART:20261207T073000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:✏️ ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67876
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261214T093000Z
 LOCATION:Salle S2.7
 DTSTART:20261214T073000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:✏️ ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67877
 END:VEVENT
 BEGIN:VEVENT
@@ -508,12 +508,12 @@ SUMMARY:✏️ Anglais (TD)
 UID:ApEdtElv_68061
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.8\, Salle S2.14
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.14\, Salle S2.8
 DTEND:20260908T133000Z
-LOCATION:Salle S2.8\, Salle S2.14
+LOCATION:Salle S2.14\, Salle S2.8
 DTSTART:20260908T113000Z
 SUMMARY:✏️ Anglais (TD)
-UID:ApEdtElv_68062
+UID:ApEdtElv_68063
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.8\, Salle S2.14
@@ -548,11 +548,11 @@ SUMMARY:✏️ Mécanique quantique (TD)
 UID:ApEdtElv_68856
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
 DTEND:20261116T161500Z
 LOCATION:Salle S2.14
 DTSTART:20261116T144500Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:✏️ Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_69290
 END:VEVENT
 BEGIN:VEVENT
@@ -580,11 +580,11 @@ SUMMARY:✏️ Mécanique quantique (TD)
 UID:ApEdtElv_69282
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
 DTEND:20261109T161500Z
 LOCATION:Salle S2.14
 DTSTART:20261109T144500Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:✏️ Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_69288
 END:VEVENT
 BEGIN:VEVENT
@@ -604,11 +604,11 @@ SUMMARY:✏️ Maths & Signal 1 (TD)
 UID:ApEdtElv_66955
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.9B
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.9B
 DTEND:20261007T101500Z
 LOCATION:Salle S2.9B
 DTSTART:20261007T084500Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:✏️ Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_69271
 END:VEVENT
 BEGIN:VEVENT
