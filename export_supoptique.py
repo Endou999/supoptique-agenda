@@ -22,7 +22,7 @@ ICAL_URL = _env_ical if _env_ical else DEFAULT_ICAL_URL
 FILE_PREFIX = "SO_"
 
 # Activer ou désactiver les emojis dans les titres (True / False)
-USE_EMOJIS = True
+USE_EMOJIS = False
 
 # Emojis par type de cours
 EMOJIS = {

@@ -6,7 +6,7 @@ Ce dépôt permet de récupérer automatiquement votre emploi du temps de **SupO
 
 ## 🌟 Intérêts principaux du script
 
-* **Nettoyage et lisibilité des cours :** Les intitulés bruts de Synapses (ex: `5N-025-PHO (Cours magistral)`) sont automatiquement convertis en titres clairs et explicites (ex: `🎓 Optique physique (CM)`, `✏️ Anglais (TD)`).
+* **Nettoyage et lisibilité des cours :** Les intitulés bruts de Synapses (ex: `5N-025-PHO (Cours magistral)`) sont automatiquement convertis en titres clairs et explicites (ex: `Optique physique (CM)`, `Anglais (TD)`).
 * **Noms d'agendas automatiques :** Les calendriers intègrent la métadonnée standard `X-WR-CALNAME` (`Cours Magistraux`, `Travaux Dirigés`, etc.) pour s'intituler proprement dès l'importation.
 * **Raccourcissement mobile (Alias) :** Les matières à noms à rallonge (comme *Outils Numériques pour l'Ingénieur·e en Physique - 1*) sont automatiquement abrégées (ex: `ONIP 1`) pour ne pas être tronquées sur écran de smartphone ou widget.
 * **Localisation précise :** Les salles sont automatiquement extraites et assignées directement au champ **Lieu** (`LOCATION`) de l'événement.
@@ -51,7 +51,7 @@ Au début du fichier `export_supoptique.py`, vous pouvez personnaliser :
 
 * **Activer / Désactiver les emojis :**
   ```python
-  USE_EMOJIS = True   # Mettez False si vous préférez des titres sobres sans emoji
+  USE_EMOJIS = False  # Mettez True si vous souhaitez activer des emojis devant les titres
   ```
 * **Ajouter des alias de matières :**
   ```python
@@ -79,10 +79,10 @@ Au début du fichier `export_supoptique.py`, vous pouvez personnaliser :
 ## 📅 Importer dans Google Calendar ou Apple Calendar
 
 Le script génère les calendriers suivants à la racine du dépôt :
-* `SO_CM.ics` : Cours Magistraux (`🎓 CM`)
-* `SO_TD.ics` : Travaux Dirigés (`✏️ TD`)
-* `SO_TP.ics` : Travaux Pratiques (`🔬 TP`)
-* `SO_EXAM.ics` : Examens, Partiels, Contrôles continus (`📝 Exam`)
+* `SO_CM.ics` : Cours Magistraux (`CM`)
+* `SO_TD.ics` : Travaux Dirigés (`TD`)
+* `SO_TP.ics` : Travaux Pratiques (`TP`)
+* `SO_EXAM.ics` : Examens, Partiels, Contrôles continus (`Exam`)
 * `SO_AUTRE.ics` : Autres créneaux éventuels
 * `SO_ALL.ics` : Calendrier complet réunissant tous les cours
 

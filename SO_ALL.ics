@@ -4,27 +4,43 @@ X-WR-TIMEZONE:Europe/Paris
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Matière : Atelier de prévention aux VSS - Prévention des violences sexuelles et sexistes\nType : Présentation\nCode : 5N-030-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18
+DTEND:20261112T170000Z
+LOCATION:Salle S2.18
+DTSTART:20261112T130000Z
+SUMMARY:Atelier de prévention aux VSS - Prévention des violences sexuelles et sexistes (Présentation)
+UID:ApEdtElv_69145
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Atelier de prévention aux VSS - Prévention des violences sexuelles et sexistes\nType : Présentation\nCode : 5N-030-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18
+DTEND:20261210T170000Z
+LOCATION:Salle S2.18
+DTSTART:20261210T130000Z
+SUMMARY:Atelier de prévention aux VSS - Prévention des violences sexuelles et sexistes (Présentation)
+UID:ApEdtElv_69146
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Mathématiques & signal 1\nType : Travaux dirigés\nCode : 5N-029-SCI\nGroupe : 1A Groupe 4\nSalle(s) : 503 salle 1.27
 DTEND:20260918T133000Z
 LOCATION:503 salle 1.27
 DTSTART:20260918T120000Z
-SUMMARY:✏️ Maths & Signal 1 (TD)
+SUMMARY:Maths & Signal 1 (TD)
 UID:ApEdtElv_66949
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.9A
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.9A
 DTEND:20261125T093000Z
 LOCATION:Salle S2.9A
 DTSTART:20261125T080000Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68262
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
 DTEND:20261209T093000Z
 LOCATION:Salle S2.18
 DTSTART:20261209T080000Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68264
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +48,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N
 DTEND:20261009T133000Z
 LOCATION:503 salle 1.22
 DTSTART:20261009T120000Z
-SUMMARY:✏️ Optique instrumentale (TD)
+SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_69264
 END:VEVENT
 BEGIN:VEVENT
@@ -40,39 +56,39 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-
 DTEND:20261016T101500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261016T084500Z
-SUMMARY:🎓 Optique instrumentale (CM)
+SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67250
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
 DTEND:20260916T083000Z
 LOCATION:Salle S2.18
 DTSTART:20260916T070000Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68252
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
 DTEND:20260923T083000Z
 LOCATION:Salle S2.18
 DTSTART:20260923T070000Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68253
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
 DTEND:20260930T083000Z
 LOCATION:Salle S2.18
 DTSTART:20260930T070000Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68254
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
 DTEND:20261104T093000Z
 LOCATION:Salle S2.18
 DTSTART:20261104T080000Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68259
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +96,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N
 DTEND:20261016T151500Z
 LOCATION:Salle S2.9B
 DTSTART:20261016T134500Z
-SUMMARY:✏️ Optique instrumentale (TD)
+SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_67492
 END:VEVENT
 BEGIN:VEVENT
@@ -88,7 +104,7 @@ DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGrou
 DTEND:20260928T104500Z
 LOCATION:Salle S2.8
 DTSTART:20260928T084500Z
-SUMMARY:✏️ Anglais (TD)
+SUMMARY:Anglais (TD)
 UID:ApEdtElv_66493
 END:VEVENT
 BEGIN:VEVENT
@@ -96,7 +112,7 @@ DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGrou
 DTEND:20261005T104500Z
 LOCATION:Salle S2.8
 DTSTART:20261005T084500Z
-SUMMARY:✏️ Anglais (TD)
+SUMMARY:Anglais (TD)
 UID:ApEdtElv_66492
 END:VEVENT
 BEGIN:VEVENT
@@ -104,7 +120,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N
 DTEND:20261113T161500Z
 LOCATION:Salle S2.13
 DTSTART:20261113T144500Z
-SUMMARY:✏️ Optique instrumentale (TD)
+SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_67494
 END:VEVENT
 BEGIN:VEVENT
@@ -112,7 +128,7 @@ DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGrou
 DTEND:20261019T104500Z
 LOCATION:Salle S2.8
 DTSTART:20261019T084500Z
-SUMMARY:✏️ Anglais (TD)
+SUMMARY:Anglais (TD)
 UID:ApEdtElv_66494
 END:VEVENT
 BEGIN:VEVENT
@@ -120,7 +136,7 @@ DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGrou
 DTEND:20261012T104500Z
 LOCATION:Salle S2.8
 DTSTART:20261012T084500Z
-SUMMARY:✏️ Anglais (TD)
+SUMMARY:Anglais (TD)
 UID:ApEdtElv_66496
 END:VEVENT
 BEGIN:VEVENT
@@ -128,7 +144,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N
 DTEND:20261021T101500Z
 LOCATION:Salle S2.14
 DTSTART:20261021T084500Z
-SUMMARY:✏️ Optique instrumentale (TD)
+SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68361
 END:VEVENT
 BEGIN:VEVENT
@@ -136,7 +152,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N
 DTEND:20261104T111500Z
 LOCATION:Salle S2.14
 DTSTART:20261104T094500Z
-SUMMARY:✏️ Optique instrumentale (TD)
+SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68363
 END:VEVENT
 BEGIN:VEVENT
@@ -144,7 +160,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N
 DTEND:20261118T111500Z
 LOCATION:Salle S2.14
 DTSTART:20261118T094500Z
-SUMMARY:✏️ Optique instrumentale (TD)
+SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68365
 END:VEVENT
 BEGIN:VEVENT
@@ -152,7 +168,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N
 DTEND:20261125T111500Z
 LOCATION:Salle S2.9B
 DTSTART:20261125T094500Z
-SUMMARY:✏️ Optique instrumentale (TD)
+SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68366
 END:VEVENT
 BEGIN:VEVENT
@@ -160,7 +176,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N
 DTEND:20261209T111500Z
 LOCATION:Salle S2.16
 DTSTART:20261209T094500Z
-SUMMARY:✏️ Optique instrumentale (TD)
+SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68368
 END:VEVENT
 BEGIN:VEVENT
@@ -168,7 +184,7 @@ DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-0
 DTEND:20261019T133000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261019T120000Z
-SUMMARY:🎓 Mécanique quantique (CM)
+SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67230
 END:VEVENT
 BEGIN:VEVENT
@@ -176,7 +192,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N
 DTEND:20261216T111500Z
 LOCATION:Salle S2.14
 DTSTART:20261216T094500Z
-SUMMARY:✏️ Optique instrumentale (TD)
+SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68369
 END:VEVENT
 BEGIN:VEVENT
@@ -184,7 +200,7 @@ DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027
 DTEND:20261210T111500Z
 LOCATION:Salle S2.9A
 DTSTART:20261210T094500Z
-SUMMARY:✏️ Optoélectronique (TD)
+SUMMARY:Optoélectronique (TD)
 UID:ApEdtElv_68900
 END:VEVENT
 BEGIN:VEVENT
@@ -192,7 +208,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N
 DTEND:20261127T143000Z
 LOCATION:Salle S2.3A
 DTSTART:20261127T130000Z
-SUMMARY:✏️ Optique instrumentale (TD)
+SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_67481
 END:VEVENT
 BEGIN:VEVENT
@@ -200,7 +216,7 @@ DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-
 DTEND:20260930T101500Z
 LOCATION:Salle S2.11\, Salle S2.11A\, Salle S2.11B
 DTSTART:20260930T084500Z
-SUMMARY:✏️ Mécanique quantique (TD)
+SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_68480
 END:VEVENT
 BEGIN:VEVENT
@@ -208,15 +224,15 @@ DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027
 DTEND:20260911T133000Z
 LOCATION:Salle S2.18
 DTSTART:20260911T120000Z
-SUMMARY:✏️ Optoélectronique (TD)
+SUMMARY:Optoélectronique (TD)
 UID:ApEdtElv_68909
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
 DTEND:20261216T093000Z
 LOCATION:Salle S2.18
 DTSTART:20261216T080000Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68353
 END:VEVENT
 BEGIN:VEVENT
@@ -224,7 +240,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N
 DTEND:20260916T101500Z
 LOCATION:Salle S2.14
 DTSTART:20260916T084500Z
-SUMMARY:✏️ Optique instrumentale (TD)
+SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68356
 END:VEVENT
 BEGIN:VEVENT
@@ -232,7 +248,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N
 DTEND:20260923T101500Z
 LOCATION:Salle S2.14
 DTSTART:20260923T084500Z
-SUMMARY:✏️ Optique instrumentale (TD)
+SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68357
 END:VEVENT
 BEGIN:VEVENT
@@ -240,7 +256,7 @@ DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGrou
 DTEND:20260914T104500Z
 LOCATION:Salle S2.8
 DTSTART:20260914T084500Z
-SUMMARY:✏️ Anglais (TD)
+SUMMARY:Anglais (TD)
 UID:ApEdtElv_66474
 END:VEVENT
 BEGIN:VEVENT
@@ -248,7 +264,7 @@ DESCRIPTION:Matière : Mathématiques & signal 1\nType : Travaux dirigés\nCode 
 DTEND:20261007T083000Z
 LOCATION:Salle N2.1
 DTSTART:20261007T070000Z
-SUMMARY:✏️ Maths & Signal 1 (TD)
+SUMMARY:Maths & Signal 1 (TD)
 UID:ApEdtElv_69342
 END:VEVENT
 BEGIN:VEVENT
@@ -256,15 +272,23 @@ DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-0
 DTEND:20261012T151500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261012T134500Z
-SUMMARY:🎓 Mécanique quantique (CM)
+SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67210
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+DTEND:20260909T100000Z
+LOCATION:Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+DTSTART:20260909T063000Z
+SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_69210
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-024-PHY\nGroupe : Tous les étudiants\nIntervenant(s) : TUALLE BROURI Rosa\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261102T161500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261102T144500Z
-SUMMARY:🎓 Mécanique quantique (CM)
+SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67213
 END:VEVENT
 BEGIN:VEVENT
@@ -272,15 +296,23 @@ DESCRIPTION:Matière : Optoélectronique\nType : Cours magistral\nCode : 5N-027-
 DTEND:20260910T083000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260910T070000Z
-SUMMARY:🎓 Optoélectronique (CM)
+SUMMARY:Optoélectronique (CM)
 UID:ApEdtElv_67594
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : FAQ CFA - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20260907T163000Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20260907T153000Z
+SUMMARY:FAQ CFA - 1A S5 Réunion et Présentation (CM)
+UID:ApEdtElv_69215
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-024-PHY\nGroupe : Tous les étudiants\nIntervenant(s) : TUALLE BROURI Rosa\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261123T161500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261123T144500Z
-SUMMARY:🎓 Mécanique quantique (CM)
+SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67216
 END:VEVENT
 BEGIN:VEVENT
@@ -288,7 +320,7 @@ DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-
 DTEND:20270106T093000Z
 LOCATION:Salle S2.14
 DTSTART:20270106T080000Z
-SUMMARY:✏️ Mécanique quantique (TD)
+SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_68596
 END:VEVENT
 BEGIN:VEVENT
@@ -296,7 +328,7 @@ DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-0
 DTEND:20261207T161500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261207T144500Z
-SUMMARY:🎓 Mécanique quantique (CM)
+SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67218
 END:VEVENT
 BEGIN:VEVENT
@@ -304,7 +336,7 @@ DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-0
 DTEND:20261214T161500Z
 LOCATION:Auditorium Palaiseau
 DTSTART:20261214T144500Z
-SUMMARY:🎓 Mécanique quantique (CM)
+SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67219
 END:VEVENT
 BEGIN:VEVENT
@@ -312,7 +344,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-
 DTEND:20261014T133000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261014T120000Z
-SUMMARY:🎓 Optique instrumentale (CM)
+SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67330
 END:VEVENT
 BEGIN:VEVENT
@@ -320,15 +352,31 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-
 DTEND:20261104T143000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261104T130000Z
-SUMMARY:🎓 Optique instrumentale (CM)
+SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67333
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle N2.1\, Salle S2.11
+DTEND:20260908T153000Z
+LOCATION:Salle N2.1\, Salle S2.11
+DTSTART:20260908T120000Z
+SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_69200
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9B\, Salle S2.9
+DTEND:20260908T100000Z
+LOCATION:Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9B\, Salle S2.9
+DTSTART:20260908T063000Z
+SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_69202
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : DE ROSSI Sébastien\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20260911T101500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260911T084500Z
-SUMMARY:🎓 Optique instrumentale (CM)
+SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67583
 END:VEVENT
 BEGIN:VEVENT
@@ -336,15 +384,23 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-
 DTEND:20260909T133000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260909T120000Z
-SUMMARY:🎓 Optique instrumentale (CM)
+SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67584
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+DTEND:20260908T153000Z
+LOCATION:Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+DTSTART:20260908T120000Z
+SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_69205
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-024-PHY\nGroupe : Tous les étudiants\nIntervenant(s) : TUALLE BROURI Rosa\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20260914T151500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260914T134500Z
-SUMMARY:🎓 Mécanique quantique (CM)
+SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67206
 END:VEVENT
 BEGIN:VEVENT
@@ -352,7 +408,7 @@ DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-0
 DTEND:20260921T151500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260921T134500Z
-SUMMARY:🎓 Mécanique quantique (CM)
+SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67207
 END:VEVENT
 BEGIN:VEVENT
@@ -360,7 +416,7 @@ DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-0
 DTEND:20260928T151500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260928T134500Z
-SUMMARY:🎓 Mécanique quantique (CM)
+SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67208
 END:VEVENT
 BEGIN:VEVENT
@@ -368,7 +424,7 @@ DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-0
 DTEND:20261005T151500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261005T134500Z
-SUMMARY:🎓 Mécanique quantique (CM)
+SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67209
 END:VEVENT
 BEGIN:VEVENT
@@ -376,15 +432,23 @@ DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027
 DTEND:20261216T143000Z
 LOCATION:Salle S2.14
 DTSTART:20261216T130000Z
-SUMMARY:✏️ Optoélectronique (TD)
+SUMMARY:Optoélectronique (TD)
 UID:ApEdtElv_69322
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Pièce de théâtre - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DTEND:20260909T173000Z
+LOCATION:Auditorium Palaiseau
+DTSTART:20260909T160000Z
+SUMMARY:Pièce de théâtre - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_69327
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261015T101500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261015T084500Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_67575
 END:VEVENT
 BEGIN:VEVENT
@@ -392,23 +456,23 @@ DESCRIPTION:Matière : Optoélectronique\nType : Cours magistral\nCode : 5N-027-
 DTEND:20261012T133000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261012T120000Z
-SUMMARY:🎓 Optoélectronique (CM)
+SUMMARY:Optoélectronique (CM)
 UID:ApEdtElv_67576
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : CLÉMENT David\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : CLÉMENT David\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20260911T133000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260911T120000Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_67578
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : CLÉMENT David\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : CLÉMENT David\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20260910T101500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260910T084500Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_67579
 END:VEVENT
 BEGIN:VEVENT
@@ -416,7 +480,7 @@ DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027
 DTEND:20261106T161500Z
 LOCATION:Salle S2.18
 DTSTART:20261106T144500Z
-SUMMARY:✏️ Optoélectronique (TD)
+SUMMARY:Optoélectronique (TD)
 UID:ApEdtElv_67444
 END:VEVENT
 BEGIN:VEVENT
@@ -424,7 +488,7 @@ DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027
 DTEND:20261127T161500Z
 LOCATION:Salle S2.18
 DTSTART:20261127T144500Z
-SUMMARY:✏️ Optoélectronique (TD)
+SUMMARY:Optoélectronique (TD)
 UID:ApEdtElv_67448
 END:VEVENT
 BEGIN:VEVENT
@@ -432,15 +496,15 @@ DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-
 DTEND:20261217T111500Z
 LOCATION:Salle S2.14
 DTSTART:20261217T094500Z
-SUMMARY:✏️ Mécanique quantique (TD)
+SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_69317
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20260921T083000Z
 LOCATION:Salle S2.7
 DTSTART:20260921T063000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66561
 END:VEVENT
 BEGIN:VEVENT
@@ -448,7 +512,7 @@ DESCRIPTION:Matière : Mathématiques & signal 1\nType : Travaux pratiques\nCode
 DTEND:20261014T083000Z
 LOCATION:Salle S2.6
 DTSTART:20261014T063000Z
-SUMMARY:🔬 Maths & Signal 1 (TP)
+SUMMARY:Maths & Signal 1 (TP)
 UID:ApEdtElv_67565
 END:VEVENT
 BEGIN:VEVENT
@@ -456,7 +520,7 @@ DESCRIPTION:Matière : Mathématiques & signal 1\nType : Travaux pratiques\nCode
 DTEND:20261014T104500Z
 LOCATION:Salle S2.6
 DTSTART:20261014T084500Z
-SUMMARY:🔬 Maths & Signal 1 (TP)
+SUMMARY:Maths & Signal 1 (TP)
 UID:ApEdtElv_67566
 END:VEVENT
 BEGIN:VEVENT
@@ -464,7 +528,7 @@ DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027
 DTEND:20260925T151500Z
 LOCATION:503 salle 1.22
 DTSTART:20260925T134500Z
-SUMMARY:✏️ Optoélectronique (TD)
+SUMMARY:Optoélectronique (TD)
 UID:ApEdtElv_67433
 END:VEVENT
 BEGIN:VEVENT
@@ -472,7 +536,7 @@ DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027
 DTEND:20261002T151500Z
 LOCATION:503 salle 1.22
 DTSTART:20261002T134500Z
-SUMMARY:✏️ Optoélectronique (TD)
+SUMMARY:Optoélectronique (TD)
 UID:ApEdtElv_67437
 END:VEVENT
 BEGIN:VEVENT
@@ -480,7 +544,7 @@ DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027
 DTEND:20260918T151500Z
 LOCATION:503 salle 1.22
 DTSTART:20260918T134500Z
-SUMMARY:✏️ Optoélectronique (TD)
+SUMMARY:Optoélectronique (TD)
 UID:ApEdtElv_67429
 END:VEVENT
 BEGIN:VEVENT
@@ -488,7 +552,7 @@ DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGrou
 DTEND:20261102T114500Z
 LOCATION:Salle S2.8
 DTSTART:20261102T094500Z
-SUMMARY:✏️ Anglais (TD)
+SUMMARY:Anglais (TD)
 UID:ApEdtElv_67672
 END:VEVENT
 BEGIN:VEVENT
@@ -496,7 +560,7 @@ DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGrou
 DTEND:20261109T114500Z
 LOCATION:Salle S2.8
 DTSTART:20261109T094500Z
-SUMMARY:✏️ Anglais (TD)
+SUMMARY:Anglais (TD)
 UID:ApEdtElv_67673
 END:VEVENT
 BEGIN:VEVENT
@@ -504,7 +568,7 @@ DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGrou
 DTEND:20261116T114500Z
 LOCATION:Salle S2.8
 DTSTART:20261116T094500Z
-SUMMARY:✏️ Anglais (TD)
+SUMMARY:Anglais (TD)
 UID:ApEdtElv_67674
 END:VEVENT
 BEGIN:VEVENT
@@ -512,7 +576,7 @@ DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGrou
 DTEND:20261123T114500Z
 LOCATION:Salle S2.8
 DTSTART:20261123T094500Z
-SUMMARY:✏️ Anglais (TD)
+SUMMARY:Anglais (TD)
 UID:ApEdtElv_67675
 END:VEVENT
 BEGIN:VEVENT
@@ -520,7 +584,7 @@ DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGrou
 DTEND:20261207T114500Z
 LOCATION:Salle S2.8
 DTSTART:20261207T094500Z
-SUMMARY:✏️ Anglais (TD)
+SUMMARY:Anglais (TD)
 UID:ApEdtElv_67677
 END:VEVENT
 BEGIN:VEVENT
@@ -528,111 +592,119 @@ DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGrou
 DTEND:20261214T114500Z
 LOCATION:Salle S2.8
 DTSTART:20261214T094500Z
-SUMMARY:✏️ Anglais (TD)
+SUMMARY:Anglais (TD)
 UID:ApEdtElv_67678
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261019T083000Z
 LOCATION:Salle S2.7
 DTSTART:20261019T063000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66543
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261005T083000Z
 LOCATION:Salle S2.7
 DTSTART:20261005T063000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66545
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Présentation psychologue - Odile Feuillatre - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20260917T104500Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20260917T101500Z
+SUMMARY:Présentation psychologue - Odile Feuillatre - 1A S5 Réunion et Présentation (CM)
+UID:ApEdtElv_69419
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Mathématiques & signal 1\nType : Cours magistral\nCode : 5N-029-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : GOUDAIL François\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20260916T151500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260916T134500Z
-SUMMARY:🎓 Maths & Signal 1 (CM)
+SUMMARY:Maths & Signal 1 (CM)
 UID:ApEdtElv_66829
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261012T083000Z
 LOCATION:Salle S2.7
 DTSTART:20261012T063000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66535
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20260928T083000Z
 LOCATION:Salle S2.7
 DTSTART:20260928T063000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66536
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
 DTEND:20261117T121500Z
 DTSTART:20261117T073000Z
-SUMMARY:🔬 Optique physique (TP)
+SUMMARY:Optique physique (TP)
 UID:ApEdtElv_69650
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
 DTEND:20261103T121500Z
 DTSTART:20261103T073000Z
-SUMMARY:🔬 Optique physique (TP)
+SUMMARY:Optique physique (TP)
 UID:ApEdtElv_69652
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
 DTEND:20261013T111500Z
 DTSTART:20261013T063000Z
-SUMMARY:🔬 Optique physique (TP)
+SUMMARY:Optique physique (TP)
 UID:ApEdtElv_69655
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
 DTEND:20260929T111500Z
 DTSTART:20260929T063000Z
-SUMMARY:🔬 Optique physique (TP)
+SUMMARY:Optique physique (TP)
 UID:ApEdtElv_69657
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optoélectronique\nType : Travaux pratiques\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4
 DTEND:20261020T111500Z
 DTSTART:20261020T063000Z
-SUMMARY:🔬 Optoélectronique (TP)
+SUMMARY:Optoélectronique (TP)
 UID:ApEdtElv_69520
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
 DTEND:20260915T111500Z
 DTSTART:20260915T063000Z
-SUMMARY:🔬 Optique physique (TP)
+SUMMARY:Optique physique (TP)
 UID:ApEdtElv_69659
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optoélectronique\nType : Travaux pratiques\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4
 DTEND:20261110T121500Z
 DTSTART:20261110T073000Z
-SUMMARY:🔬 Optoélectronique (TP)
+SUMMARY:Optoélectronique (TP)
 UID:ApEdtElv_69523
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optoélectronique\nType : Travaux pratiques\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4
 DTEND:20261124T121500Z
 DTSTART:20261124T073000Z
-SUMMARY:🔬 Optoélectronique (TP)
+SUMMARY:Optoélectronique (TP)
 UID:ApEdtElv_69525
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20260914T083000Z
 LOCATION:Salle S2.7
 DTSTART:20260914T063000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66526
 END:VEVENT
 BEGIN:VEVENT
@@ -640,21 +712,21 @@ DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-
 DTEND:20261106T143000Z
 LOCATION:Salle S2.14
 DTSTART:20261106T130000Z
-SUMMARY:✏️ Mécanique quantique (TD)
+SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_67527
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optoélectronique\nType : Travaux pratiques\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4
 DTEND:20261215T121500Z
 DTSTART:20261215T073000Z
-SUMMARY:🔬 Optoélectronique (TP)
+SUMMARY:Optoélectronique (TP)
 UID:ApEdtElv_69528
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
 DTEND:20261208T121500Z
 DTSTART:20261208T073000Z
-SUMMARY:🔬 Optique physique (TP)
+SUMMARY:Optique physique (TP)
 UID:ApEdtElv_69647
 END:VEVENT
 BEGIN:VEVENT
@@ -662,7 +734,7 @@ DESCRIPTION:Matière : Mathématiques & signal 1\nType : Cours magistral\nCode :
 DTEND:20261005T133000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261005T120000Z
-SUMMARY:🎓 Maths & Signal 1 (CM)
+SUMMARY:Maths & Signal 1 (CM)
 UID:ApEdtElv_66890
 END:VEVENT
 BEGIN:VEVENT
@@ -670,29 +742,37 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N
 DTEND:20261210T093000Z
 LOCATION:Salle S2.3A
 DTSTART:20261210T080000Z
-SUMMARY:✏️ Optique instrumentale (TD)
+SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68893
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optoélectronique\nType : Travaux pratiques\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4
 DTEND:20260922T111500Z
 DTSTART:20260922T063000Z
-SUMMARY:🔬 Optoélectronique (TP)
+SUMMARY:Optoélectronique (TP)
 UID:ApEdtElv_69516
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optoélectronique\nType : Travaux pratiques\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4
 DTEND:20261006T111500Z
 DTSTART:20261006T063000Z
-SUMMARY:🔬 Optoélectronique (TP)
+SUMMARY:Optoélectronique (TP)
 UID:ApEdtElv_69518
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle N2.1
+DTEND:20260908T100000Z
+LOCATION:Salle S2.11\, Salle N2.1
+DTSTART:20260908T063000Z
+SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_68082
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
 DTEND:20261021T083000Z
 LOCATION:Salle S2.18
 DTSTART:20261021T070000Z
-SUMMARY:✏️ Mécanique quantique (TD)
+SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_68503
 END:VEVENT
 BEGIN:VEVENT
@@ -700,7 +780,7 @@ DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGrou
 DTEND:20260921T104500Z
 LOCATION:Salle S2.8
 DTSTART:20260921T084500Z
-SUMMARY:✏️ Anglais (TD)
+SUMMARY:Anglais (TD)
 UID:ApEdtElv_66504
 END:VEVENT
 BEGIN:VEVENT
@@ -708,7 +788,7 @@ DESCRIPTION:Matière : Mathématiques & signal 1\nType : Cours magistral\nCode :
 DTEND:20260914T133000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260914T120000Z
-SUMMARY:🎓 Maths & Signal 1 (CM)
+SUMMARY:Maths & Signal 1 (CM)
 UID:ApEdtElv_66887
 END:VEVENT
 BEGIN:VEVENT
@@ -716,7 +796,7 @@ DESCRIPTION:Matière : Mathématiques & signal 1\nType : Cours magistral\nCode :
 DTEND:20260921T133000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260921T120000Z
-SUMMARY:🎓 Maths & Signal 1 (CM)
+SUMMARY:Maths & Signal 1 (CM)
 UID:ApEdtElv_66888
 END:VEVENT
 BEGIN:VEVENT
@@ -724,23 +804,23 @@ DESCRIPTION:Matière : Mathématiques & signal 1\nType : Cours magistral\nCode :
 DTEND:20260928T133000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260928T120000Z
-SUMMARY:🎓 Maths & Signal 1 (CM)
+SUMMARY:Maths & Signal 1 (CM)
 UID:ApEdtElv_66889
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
 DTEND:20261019T151500Z
 LOCATION:Salle S2.14
 DTSTART:20261019T134500Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68756
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261102T093000Z
 LOCATION:Salle S2.7
 DTSTART:20261102T073000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67871
 END:VEVENT
 BEGIN:VEVENT
@@ -748,63 +828,71 @@ DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-
 DTEND:20261209T143000Z
 LOCATION:Salle S2.18
 DTSTART:20261209T130000Z
-SUMMARY:✏️ Mécanique quantique (TD)
+SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_68872
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261109T093000Z
 LOCATION:Salle S2.7
 DTSTART:20261109T073000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67872
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261123T093000Z
 LOCATION:Salle S2.7
 DTSTART:20261123T073000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67874
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261116T093000Z
 LOCATION:Salle S2.7
 DTSTART:20261116T073000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67873
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261207T093000Z
 LOCATION:Salle S2.7
 DTSTART:20261207T073000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67876
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261214T093000Z
 LOCATION:Salle S2.7
 DTSTART:20261214T073000Z
-SUMMARY:✏️ ONIP 1 (TD)
+SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67877
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle S2.9B\, Salle S2.9
+DTEND:20260907T153000Z
+LOCATION:Salle S2.11\, Salle S2.9B\, Salle S2.9
+DTSTART:20260907T120000Z
+SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_68076
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261001T101500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261001T084500Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66990
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261008T101500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261008T084500Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66991
 END:VEVENT
 BEGIN:VEVENT
@@ -812,7 +900,7 @@ DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGrou
 DTEND:20260909T083000Z
 LOCATION:Salle S2.8\, Salle S2.10
 DTSTART:20260909T063000Z
-SUMMARY:✏️ Anglais (TD)
+SUMMARY:Anglais (TD)
 UID:ApEdtElv_68060
 END:VEVENT
 BEGIN:VEVENT
@@ -820,31 +908,39 @@ DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGrou
 DTEND:20260909T104500Z
 LOCATION:Salle S2.8\, Salle S2.10
 DTSTART:20260909T084500Z
-SUMMARY:✏️ Anglais (TD)
+SUMMARY:Anglais (TD)
 UID:ApEdtElv_68061
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.8\, Salle S2.14
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.14\, Salle S2.8
 DTEND:20260908T133000Z
-LOCATION:Salle S2.8\, Salle S2.14
+LOCATION:Salle S2.14\, Salle S2.8
 DTSTART:20260908T113000Z
-SUMMARY:✏️ Anglais (TD)
-UID:ApEdtElv_68062
+SUMMARY:Anglais (TD)
+UID:ApEdtElv_68063
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.8\, Salle S2.14
 DTEND:20260908T154500Z
 LOCATION:Salle S2.8\, Salle S2.14
 DTSTART:20260908T134500Z
-SUMMARY:✏️ Anglais (TD)
+SUMMARY:Anglais (TD)
 UID:ApEdtElv_68064
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : PAPAGIANNOULI Eirini\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Présentation des sites - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20261015T083000Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20261015T070000Z
+SUMMARY:Présentation des sites - 1A S5 Réunion et Présentation (CM)
+UID:ApEdtElv_68068
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : PAPAGIANNOULI Eirini\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261211T111500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261211T094500Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66980
 END:VEVENT
 BEGIN:VEVENT
@@ -852,7 +948,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-
 DTEND:20260916T133000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260916T120000Z
-SUMMARY:🎓 Optique instrumentale (CM)
+SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_69183
 END:VEVENT
 BEGIN:VEVENT
@@ -860,7 +956,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-
 DTEND:20260923T133000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260923T120000Z
-SUMMARY:🎓 Optique instrumentale (CM)
+SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_69184
 END:VEVENT
 BEGIN:VEVENT
@@ -868,7 +964,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-
 DTEND:20260930T133000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260930T120000Z
-SUMMARY:🎓 Optique instrumentale (CM)
+SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_69185
 END:VEVENT
 BEGIN:VEVENT
@@ -876,23 +972,23 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-
 DTEND:20261007T133000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261007T120000Z
-SUMMARY:🎓 Optique instrumentale (CM)
+SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_69186
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : CLÉMENT David\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : CLÉMENT David\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20260917T101500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260917T084500Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66988
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : CLÉMENT David\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : CLÉMENT David\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20260924T101500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260924T084500Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66989
 END:VEVENT
 BEGIN:VEVENT
@@ -900,7 +996,7 @@ DESCRIPTION:Matière : Colorimétrie\nType : Cours magistral\nCode : 5N-715-PHO\
 DTEND:20261112T114500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261112T094500Z
-SUMMARY:🎓 Colorimétrie (CM)
+SUMMARY:Colorimétrie (CM)
 UID:ApEdtElv_68051
 END:VEVENT
 BEGIN:VEVENT
@@ -908,7 +1004,7 @@ DESCRIPTION:Matière : Colorimétrie\nType : Cours magistral\nCode : 5N-715-PHO\
 DTEND:20261126T114500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261126T094500Z
-SUMMARY:🎓 Colorimétrie (CM)
+SUMMARY:Colorimétrie (CM)
 UID:ApEdtElv_68053
 END:VEVENT
 BEGIN:VEVENT
@@ -916,7 +1012,7 @@ DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGrou
 DTEND:20260908T083000Z
 LOCATION:Salle S2.10\, Salle S2.8
 DTSTART:20260908T063000Z
-SUMMARY:✏️ Anglais (TD)
+SUMMARY:Anglais (TD)
 UID:ApEdtElv_68054
 END:VEVENT
 BEGIN:VEVENT
@@ -924,7 +1020,7 @@ DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGrou
 DTEND:20260908T104500Z
 LOCATION:Salle S2.10\, Salle S2.8
 DTSTART:20260908T084500Z
-SUMMARY:✏️ Anglais (TD)
+SUMMARY:Anglais (TD)
 UID:ApEdtElv_68055
 END:VEVENT
 BEGIN:VEVENT
@@ -932,39 +1028,39 @@ DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-
 DTEND:20261125T143000Z
 LOCATION:Salle S2.14
 DTSTART:20261125T130000Z
-SUMMARY:✏️ Mécanique quantique (TD)
+SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_68856
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : PAPAGIANNOULI Eirini\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : PAPAGIANNOULI Eirini\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261118T143000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261118T130000Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_67057
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261002T101500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261002T084500Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66970
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261009T101500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261009T084500Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66971
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : CLÉMENT David\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : CLÉMENT David\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20260911T151500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260911T134500Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_69170
 END:VEVENT
 BEGIN:VEVENT
@@ -972,15 +1068,23 @@ DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-0
 DTEND:20260909T151500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260909T134500Z
-SUMMARY:🎓 Mécanique quantique (CM)
+SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_69171
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : PAPAGIANNOULI Eirini\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Présentation DDL3 - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20260907T120000Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20260907T111500Z
+SUMMARY:Présentation DDL3 - 1A S5 Réunion et Présentation (CM)
+UID:ApEdtElv_69174
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : PAPAGIANNOULI Eirini\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261106T111500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261106T094500Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66975
 END:VEVENT
 BEGIN:VEVENT
@@ -988,31 +1092,31 @@ DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-0
 DTEND:20261118T161500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261118T144500Z
-SUMMARY:🎓 Mécanique quantique (CM)
+SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67176
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : PAPAGIANNOULI Eirini\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : PAPAGIANNOULI Eirini\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261113T111500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261113T094500Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66976
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : PAPAGIANNOULI Eirini\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : PAPAGIANNOULI Eirini\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261127T111500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261127T094500Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66978
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
 DTEND:20261116T161500Z
 LOCATION:Salle S2.14
 DTSTART:20261116T144500Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_69290
 END:VEVENT
 BEGIN:VEVENT
@@ -1020,7 +1124,7 @@ DESCRIPTION:Matière : Colorimétrie\nType : Cours magistral\nCode : 5N-715-PHO\
 DTEND:20261105T114500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261105T094500Z
-SUMMARY:🎓 Colorimétrie (CM)
+SUMMARY:Colorimétrie (CM)
 UID:ApEdtElv_68049
 END:VEVENT
 BEGIN:VEVENT
@@ -1028,7 +1132,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-
 DTEND:20261105T093000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261105T080000Z
-SUMMARY:🎓 Optique instrumentale (CM)
+SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67293
 END:VEVENT
 BEGIN:VEVENT
@@ -1036,7 +1140,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-
 DTEND:20261112T093000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261112T080000Z
-SUMMARY:🎓 Optique instrumentale (CM)
+SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67294
 END:VEVENT
 BEGIN:VEVENT
@@ -1044,7 +1148,7 @@ DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-
 DTEND:20261118T093000Z
 LOCATION:Salle S2.18
 DTSTART:20261118T080000Z
-SUMMARY:✏️ Mécanique quantique (TD)
+SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_69294
 END:VEVENT
 BEGIN:VEVENT
@@ -1052,7 +1156,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-
 DTEND:20261126T093000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261126T080000Z
-SUMMARY:🎓 Optique instrumentale (CM)
+SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67296
 END:VEVENT
 BEGIN:VEVENT
@@ -1060,7 +1164,7 @@ DESCRIPTION:Matière : Mathématiques & signal 1\nType : Travaux dirigés\nCode 
 DTEND:20261009T151500Z
 LOCATION:503 salle 1.27
 DTSTART:20261009T134500Z
-SUMMARY:✏️ Maths & Signal 1 (TD)
+SUMMARY:Maths & Signal 1 (TD)
 UID:ApEdtElv_66964
 END:VEVENT
 BEGIN:VEVENT
@@ -1068,7 +1172,7 @@ DESCRIPTION:Matière : Mathématiques & signal 1\nType : Cours magistral\nCode :
 DTEND:20260923T151500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260923T134500Z
-SUMMARY:🎓 Maths & Signal 1 (CM)
+SUMMARY:Maths & Signal 1 (CM)
 UID:ApEdtElv_66830
 END:VEVENT
 BEGIN:VEVENT
@@ -1076,7 +1180,7 @@ DESCRIPTION:Matière : Mathématiques & signal 1\nType : Cours magistral\nCode :
 DTEND:20260930T151500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260930T134500Z
-SUMMARY:🎓 Maths & Signal 1 (CM)
+SUMMARY:Maths & Signal 1 (CM)
 UID:ApEdtElv_66831
 END:VEVENT
 BEGIN:VEVENT
@@ -1084,39 +1188,47 @@ DESCRIPTION:Matière : Mathématiques & signal 1\nType : Cours magistral\nCode :
 DTEND:20261007T151500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261007T134500Z
-SUMMARY:🎓 Maths & Signal 1 (CM)
+SUMMARY:Maths & Signal 1 (CM)
 UID:ApEdtElv_66832
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : CLÉMENT David\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : CLÉMENT David\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20260925T101500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260925T084500Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66969
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : CLÉMENT David\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : CLÉMENT David\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20260918T101500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260918T084500Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66968
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : PAPAGIANNOULI Eirini\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : PAPAGIANNOULI Eirini\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261104T161500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261104T144500Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_67035
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : réunion de lancement du CFA - 1A S5 Réunion et Présentation\nType : Séminaire\nCode : N-000-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20261015T123000Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20261015T113000Z
+SUMMARY:réunion de lancement du CFA - 1A S5 Réunion et Présentation (CM)
+UID:ApEdtElv_65968
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261014T151500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261014T134500Z
-SUMMARY:🎓 Optique physique (CM)
+SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_67032
 END:VEVENT
 BEGIN:VEVENT
@@ -1124,7 +1236,7 @@ DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-
 DTEND:20261113T143000Z
 LOCATION:Salle S2.14
 DTSTART:20261113T130000Z
-SUMMARY:✏️ Mécanique quantique (TD)
+SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_69282
 END:VEVENT
 BEGIN:VEVENT
@@ -1132,7 +1244,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-
 DTEND:20260917T083000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260917T070000Z
-SUMMARY:🎓 Optique instrumentale (CM)
+SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67286
 END:VEVENT
 BEGIN:VEVENT
@@ -1140,7 +1252,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-
 DTEND:20260924T083000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260924T070000Z
-SUMMARY:🎓 Optique instrumentale (CM)
+SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67287
 END:VEVENT
 BEGIN:VEVENT
@@ -1148,7 +1260,7 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-
 DTEND:20261001T083000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261001T070000Z
-SUMMARY:🎓 Optique instrumentale (CM)
+SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67288
 END:VEVENT
 BEGIN:VEVENT
@@ -1156,15 +1268,15 @@ DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-
 DTEND:20261008T083000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261008T070000Z
-SUMMARY:🎓 Optique instrumentale (CM)
+SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67289
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
 DTEND:20261109T161500Z
 LOCATION:Salle S2.14
 DTSTART:20261109T144500Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_69288
 END:VEVENT
 BEGIN:VEVENT
@@ -1172,7 +1284,7 @@ DESCRIPTION:Matière : Mathématiques & signal 1\nType : Travaux dirigés\nCode 
 DTEND:20260925T133000Z
 LOCATION:503 salle 2.28
 DTSTART:20260925T120000Z
-SUMMARY:✏️ Maths & Signal 1 (TD)
+SUMMARY:Maths & Signal 1 (TD)
 UID:ApEdtElv_66953
 END:VEVENT
 BEGIN:VEVENT
@@ -1180,15 +1292,15 @@ DESCRIPTION:Matière : Mathématiques & signal 1\nType : Travaux dirigés\nCode 
 DTEND:20261002T133000Z
 LOCATION:503 salle 1.27
 DTSTART:20261002T120000Z
-SUMMARY:✏️ Maths & Signal 1 (TD)
+SUMMARY:Maths & Signal 1 (TD)
 UID:ApEdtElv_66955
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.9B
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.9B
 DTEND:20261007T101500Z
 LOCATION:Salle S2.9B
 DTSTART:20261007T084500Z
-SUMMARY:✏️ Optique physique (TD)
+SUMMARY:Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_69271
 END:VEVENT
 BEGIN:VEVENT
@@ -1196,7 +1308,7 @@ DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-
 DTEND:20261016T133000Z
 LOCATION:Salle S2.14
 DTSTART:20261016T120000Z
-SUMMARY:✏️ Mécanique quantique (TD)
+SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_69274
 END:VEVENT
 END:VCALENDAR
