@@ -4,9 +4,9 @@ X-WR-TIMEZONE:Europe/Paris
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle S2.9B\, Salle S2.9
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle S2.9\, Salle S2.9B
 DTEND:20260907T153000Z
-LOCATION:Salle S2.11\, Salle S2.9B\, Salle S2.9
+LOCATION:Salle S2.11\, Salle S2.9\, Salle S2.9B
 DTSTART:20260907T120000Z
 SUMMARY:📌 Fres climat - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_68076
