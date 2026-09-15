@@ -212,7 +212,7 @@ SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_67481
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.11\, Salle S2.11A\, Salle S2.11B
+DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nIntervenant(s) : MARCIANO Mattéo\nSalle(s) : Salle S2.11\, Salle S2.11A\, Salle S2.11B
 DTEND:20260930T101500Z
 LOCATION:Salle S2.11\, Salle S2.11A\, Salle S2.11B
 DTSTART:20260930T084500Z
@@ -276,9 +276,9 @@ SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67210
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.3\, Salle S2.18\, Salle S2.9\, Salle S2.9B
 DTEND:20260909T100000Z
-LOCATION:Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.3B\, Salle S2.3\, Salle S2.18\, Salle S2.9\, Salle S2.9B
 DTSTART:20260909T063000Z
 SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69210
@@ -316,7 +316,7 @@ SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67216
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
+DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nIntervenant(s) : BOURASSIN-BOUCHET Charles\nSalle(s) : Salle S2.14
 DTEND:20270106T093000Z
 LOCATION:Salle S2.14
 DTSTART:20270106T080000Z
@@ -388,9 +388,9 @@ SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67584
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
 DTEND:20260908T153000Z
-LOCATION:Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
 DTSTART:20260908T120000Z
 SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69205
@@ -492,7 +492,7 @@ SUMMARY:Optoélectronique (TD)
 UID:ApEdtElv_67448
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
+DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nIntervenant(s) : BOURASSIN-BOUCHET Charles\nSalle(s) : Salle S2.14
 DTEND:20261217T111500Z
 LOCATION:Salle S2.14
 DTSTART:20261217T094500Z
@@ -708,7 +708,7 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66526
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
+DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nIntervenant(s) : BOURASSIN-BOUCHET Charles\nSalle(s) : Salle S2.14
 DTEND:20261106T143000Z
 LOCATION:Salle S2.14
 DTSTART:20261106T130000Z
@@ -768,7 +768,7 @@ SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_68082
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nIntervenant(s) : TUALLE BROURI Rosa\nSalle(s) : Salle S2.18
 DTEND:20261021T083000Z
 LOCATION:Salle S2.18
 DTSTART:20261021T070000Z
@@ -824,7 +824,7 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67871
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nIntervenant(s) : BASSET Hugo\nSalle(s) : Salle S2.18
 DTEND:20261209T143000Z
 LOCATION:Salle S2.18
 DTSTART:20261209T130000Z
@@ -904,7 +904,7 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_68060
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.8\, Salle S2.10
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DANESCU Oana\nSalle(s) : Salle S2.8\, Salle S2.10
 DTEND:20260909T104500Z
 LOCATION:Salle S2.8\, Salle S2.10
 DTSTART:20260909T084500Z
@@ -912,15 +912,15 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_68061
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.14\, Salle S2.8
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.14
 DTEND:20260908T133000Z
-LOCATION:Salle S2.14\, Salle S2.8
+LOCATION:Salle S2.8\, Salle S2.14
 DTSTART:20260908T113000Z
 SUMMARY:Anglais (TD)
-UID:ApEdtElv_68063
+UID:ApEdtElv_68062
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.8\, Salle S2.14
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.14
 DTEND:20260908T154500Z
 LOCATION:Salle S2.8\, Salle S2.14
 DTSTART:20260908T134500Z
@@ -1008,7 +1008,7 @@ SUMMARY:Colorimétrie (CM)
 UID:ApEdtElv_68053
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.10\, Salle S2.8
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : LEBBE Renata\nSalle(s) : Salle S2.10\, Salle S2.8
 DTEND:20260908T083000Z
 LOCATION:Salle S2.10\, Salle S2.8
 DTSTART:20260908T063000Z
@@ -1016,7 +1016,7 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_68054
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.10\, Salle S2.8
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : LEBBE Renata\nSalle(s) : Salle S2.10\, Salle S2.8
 DTEND:20260908T104500Z
 LOCATION:Salle S2.10\, Salle S2.8
 DTSTART:20260908T084500Z
@@ -1024,7 +1024,7 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_68055
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
+DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nIntervenant(s) : MARTIN Romain\nSalle(s) : Salle S2.14
 DTEND:20261125T143000Z
 LOCATION:Salle S2.14
 DTSTART:20261125T130000Z
@@ -1144,7 +1144,7 @@ SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67294
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nIntervenant(s) : MARTIN Romain\nSalle(s) : Salle S2.18
 DTEND:20261118T093000Z
 LOCATION:Salle S2.18
 DTSTART:20261118T080000Z
@@ -1304,7 +1304,7 @@ SUMMARY:Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_69271
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
+DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nIntervenant(s) : MARCIANO Mattéo\nSalle(s) : Salle S2.14
 DTEND:20261016T133000Z
 LOCATION:Salle S2.14
 DTSTART:20261016T120000Z
