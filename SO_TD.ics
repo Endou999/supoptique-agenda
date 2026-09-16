@@ -212,7 +212,7 @@ SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68369
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.9A
+DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : AMAZOUZ Yassir\nSalle(s) : Salle S2.9A
 DTEND:20261210T111500Z
 LOCATION:Salle S2.9A
 DTSTART:20261210T094500Z
@@ -348,7 +348,7 @@ SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_68596
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
+DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : VILLEMEJANE Julien\nSalle(s) : Salle S2.14
 DTEND:20261216T143000Z
 LOCATION:Salle S2.14
 DTSTART:20261216T130000Z
@@ -356,7 +356,7 @@ SUMMARY:Optoélectronique (TD)
 UID:ApEdtElv_69322
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : AMAZOUZ Yassir\nSalle(s) : Salle S2.18
 DTEND:20261106T161500Z
 LOCATION:Salle S2.18
 DTSTART:20261106T144500Z
@@ -388,7 +388,7 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66561
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nSalle(s) : 503 salle 1.22
+DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : VILLEMEJANE Julien\nSalle(s) : 503 salle 1.22
 DTEND:20260925T151500Z
 LOCATION:503 salle 1.22
 DTSTART:20260925T134500Z

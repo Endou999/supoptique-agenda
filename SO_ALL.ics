@@ -244,7 +244,7 @@ SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68368
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.9A
+DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : AMAZOUZ Yassir\nSalle(s) : Salle S2.9A
 DTEND:20261210T111500Z
 LOCATION:Salle S2.9A
 DTSTART:20261210T094500Z
@@ -380,9 +380,9 @@ SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67210
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.3\, Salle S2.18\, Salle S2.9\, Salle S2.9B
 DTEND:20260909T100000Z
-LOCATION:Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.3B\, Salle S2.3\, Salle S2.18\, Salle S2.9\, Salle S2.9B
 DTSTART:20260909T063000Z
 SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69210
@@ -492,9 +492,9 @@ SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67584
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
 DTEND:20260908T153000Z
-LOCATION:Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
 DTSTART:20260908T120000Z
 SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69205
@@ -532,7 +532,7 @@ SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67209
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
+DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : VILLEMEJANE Julien\nSalle(s) : Salle S2.14
 DTEND:20261216T143000Z
 LOCATION:Salle S2.14
 DTSTART:20261216T130000Z
@@ -580,7 +580,7 @@ SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_67579
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : AMAZOUZ Yassir\nSalle(s) : Salle S2.18
 DTEND:20261106T161500Z
 LOCATION:Salle S2.18
 DTSTART:20261106T144500Z
@@ -628,7 +628,7 @@ SUMMARY:Maths & Signal 1 (TP)
 UID:ApEdtElv_67566
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nSalle(s) : 503 salle 1.22
+DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : VILLEMEJANE Julien\nSalle(s) : 503 salle 1.22
 DTEND:20260925T151500Z
 LOCATION:503 salle 1.22
 DTSTART:20260925T134500Z
@@ -984,12 +984,12 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67877
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9B\, Salle S2.11\, Salle S2.9
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle S2.9\, Salle S2.9B
 DTEND:20260907T153000Z
-LOCATION:Salle S2.9B\, Salle S2.11\, Salle S2.9
+LOCATION:Salle S2.11\, Salle S2.9\, Salle S2.9B
 DTSTART:20260907T120000Z
 SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
-UID:ApEdtElv_68075
+UID:ApEdtElv_68076
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
