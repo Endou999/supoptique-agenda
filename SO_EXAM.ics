@@ -3,4 +3,12 @@ X-WR-CALNAME:Examens
 X-WR-TIMEZONE:Europe/Paris
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Matière : Présentation de la médiathèque - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : EDWARDS Marie Laure\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20260928T154500Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20260928T151500Z
+SUMMARY:Présentation de la médiathèque - 1A S5 Réunion et Présentation (Exam)
+UID:ApEdtElv_70033
+END:VEVENT
 END:VCALENDAR
