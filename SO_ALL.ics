@@ -28,7 +28,7 @@ SUMMARY:Maths & Signal 1 (TD)
 UID:ApEdtElv_66949
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.9A
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : LEVY Maé\nSalle(s) : Salle S2.9A
 DTEND:20261125T093000Z
 LOCATION:Salle S2.9A
 DTSTART:20261125T080000Z
@@ -36,7 +36,7 @@ SUMMARY:Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68262
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : BERNARD Jeanne\nSalle(s) : Salle S2.18
 DTEND:20261209T093000Z
 LOCATION:Salle S2.18
 DTSTART:20261209T080000Z
@@ -60,7 +60,7 @@ SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67250
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : GLASSET Matthieu\nSalle(s) : Salle S2.18
 DTEND:20260916T083000Z
 LOCATION:Salle S2.18
 DTSTART:20260916T070000Z
@@ -68,7 +68,7 @@ SUMMARY:Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68252
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : MARTIN Romain\nSalle(s) : Salle S2.18
 DTEND:20260923T083000Z
 LOCATION:Salle S2.18
 DTSTART:20260923T070000Z
@@ -332,7 +332,7 @@ SUMMARY:Optoélectronique (TD)
 UID:ApEdtElv_68909
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : BAUDRY Aloïs\nSalle(s) : Salle S2.18
 DTEND:20261216T093000Z
 LOCATION:Salle S2.18
 DTSTART:20261216T080000Z
@@ -380,9 +380,9 @@ SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67210
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.3\, Salle S2.18\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
 DTEND:20260909T100000Z
-LOCATION:Salle S2.3B\, Salle S2.3\, Salle S2.18\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
 DTSTART:20260909T063000Z
 SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69210
@@ -492,9 +492,9 @@ SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67584
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
 DTEND:20260908T153000Z
-LOCATION:Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
 DTSTART:20260908T120000Z
 SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69205
@@ -912,7 +912,7 @@ SUMMARY:Maths & Signal 1 (CM)
 UID:ApEdtElv_66889
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : FAYAT Milan\nSalle(s) : Salle S2.14
 DTEND:20261019T151500Z
 LOCATION:Salle S2.14
 DTSTART:20261019T134500Z
@@ -1424,7 +1424,7 @@ SUMMARY:Maths & Signal 1 (TD)
 UID:ApEdtElv_66955
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.9B
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : GLASSET Matthieu\nSalle(s) : Salle S2.9B
 DTEND:20261007T101500Z
 LOCATION:Salle S2.9B
 DTSTART:20261007T084500Z
