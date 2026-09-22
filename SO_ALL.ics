@@ -52,6 +52,22 @@ SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_69264
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Optique instrumentale\nType : Examen écrit\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20261022T103000Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20261022T063000Z
+SUMMARY:Optique instrumentale (Exam)
+UID:ApEdtElv_70131
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optique instrumentale\nType : Examen écrit\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DTEND:20261022T093000Z
+LOCATION:Auditorium Palaiseau
+DTSTART:20261022T063000Z
+SUMMARY:Optique instrumentale (Exam)
+UID:ApEdtElv_70132
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : DE ROSSI Sébastien\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261016T101500Z
 LOCATION:Amphithéâtre Palaiseau
@@ -124,20 +140,20 @@ SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
 UID:ApEdtElv_69912
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
-DTEND:20261019T104500Z
-LOCATION:Salle S2.8
-DTSTART:20261019T084500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_66494
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : FONTBONNE Alice\nSalle(s) : Salle S2.13
 DTEND:20261113T161500Z
 LOCATION:Salle S2.13
 DTSTART:20261113T144500Z
 SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_67494
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
+DTEND:20261019T104500Z
+LOCATION:Salle S2.8
+DTSTART:20261019T084500Z
+SUMMARY:Anglais (TD)
+UID:ApEdtElv_66494
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
@@ -492,9 +508,9 @@ SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67584
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
 DTEND:20260908T153000Z
-LOCATION:Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
 DTSTART:20260908T120000Z
 SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69205
@@ -1016,12 +1032,12 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_68061
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.14
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : LEBBE Renata\nSalle(s) : Salle S2.14\, Salle S2.8
 DTEND:20260908T133000Z
-LOCATION:Salle S2.8\, Salle S2.14
+LOCATION:Salle S2.14\, Salle S2.8
 DTSTART:20260908T113000Z
 SUMMARY:Anglais (TD)
-UID:ApEdtElv_68062
+UID:ApEdtElv_68063
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.14

@@ -4,6 +4,22 @@ X-WR-TIMEZONE:Europe/Paris
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Matière : Optique instrumentale\nType : Examen écrit\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20261022T103000Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20261022T063000Z
+SUMMARY:Optique instrumentale (Exam)
+UID:ApEdtElv_70131
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optique instrumentale\nType : Examen écrit\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DTEND:20261022T093000Z
+LOCATION:Auditorium Palaiseau
+DTSTART:20261022T063000Z
+SUMMARY:Optique instrumentale (Exam)
+UID:ApEdtElv_70132
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Présentation de la médiathèque - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : EDWARDS Marie Laure\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20260928T154500Z
 LOCATION:Amphithéâtre Palaiseau

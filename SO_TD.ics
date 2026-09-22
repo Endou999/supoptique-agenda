@@ -620,12 +620,12 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_68061
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.14
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : LEBBE Renata\nSalle(s) : Salle S2.14\, Salle S2.8
 DTEND:20260908T133000Z
-LOCATION:Salle S2.8\, Salle S2.14
+LOCATION:Salle S2.14\, Salle S2.8
 DTSTART:20260908T113000Z
 SUMMARY:Anglais (TD)
-UID:ApEdtElv_68062
+UID:ApEdtElv_68063
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.14
