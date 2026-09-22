@@ -524,6 +524,22 @@ SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68893
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.16
+DTEND:20261209T161500Z
+LOCATION:Salle S2.16
+DTSTART:20261209T144500Z
+SUMMARY:Mathématiques & signal 2 (TD)
+UID:ApEdtElv_68880
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.16
+DTEND:20261216T161500Z
+LOCATION:Salle S2.16
+DTSTART:20261216T144500Z
+SUMMARY:Mathématiques & signal 2 (TD)
+UID:ApEdtElv_68882
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nIntervenant(s) : TUALLE BROURI Rosa\nSalle(s) : Salle S2.18
 DTEND:20261021T083000Z
 LOCATION:Salle S2.18
@@ -682,6 +698,22 @@ LOCATION:Salle S2.18
 DTSTART:20261118T080000Z
 SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_69294
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.3A
+DTEND:20270106T111500Z
+LOCATION:Salle S2.3A
+DTSTART:20270106T094500Z
+SUMMARY:Mathématiques & signal 2 (TD)
+UID:ApEdtElv_68718
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DTEND:20261125T161500Z
+LOCATION:Salle S2.18
+DTSTART:20261125T144500Z
+SUMMARY:Mathématiques & signal 2 (TD)
+UID:ApEdtElv_69299
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Mathématiques & signal 1\nType : Travaux dirigés\nCode : 5N-029-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : PISSONDES Jean-Claude\nSalle(s) : 503 salle 1.27

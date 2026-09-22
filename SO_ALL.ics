@@ -4,6 +4,22 @@ X-WR-TIMEZONE:Europe/Paris
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DTEND:20261109T143000Z
+LOCATION:Auditorium Palaiseau
+DTSTART:20261109T130000Z
+SUMMARY:Mathématiques & signal 2 (CM)
+UID:ApEdtElv_69278
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DTEND:20261116T143000Z
+LOCATION:Auditorium Palaiseau
+DTSTART:20261116T130000Z
+SUMMARY:Mathématiques & signal 2 (CM)
+UID:ApEdtElv_69279
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Atelier de prévention aux VSS - Prévention des violences sexuelles et sexistes\nType : Présentation\nCode : 5N-030-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18
 DTEND:20261112T170000Z
 LOCATION:Salle S2.18
@@ -52,20 +68,52 @@ SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_69264
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique instrumentale\nType : Examen écrit\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
-DTEND:20261022T103000Z
-LOCATION:Amphithéâtre Palaiseau
-DTSTART:20261022T063000Z
-SUMMARY:Optique instrumentale (Exam)
+DESCRIPTION:Matière : PARTIEL OI - Optique instrumentale\nType : Examen écrit\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau\, Auditorium Palaiseau
+DTEND:20261022T100000Z
+LOCATION:Amphithéâtre Palaiseau\, Auditorium Palaiseau
+DTSTART:20261022T070000Z
+SUMMARY:PARTIEL OI - Optique instrumentale (Exam)
 UID:ApEdtElv_70131
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique instrumentale\nType : Examen écrit\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
-DTEND:20261022T093000Z
+DESCRIPTION:Matière : PARTIEL OO - Optique physique\nType : Examen écrit\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DTEND:20261022T140000Z
 LOCATION:Auditorium Palaiseau
-DTSTART:20261022T063000Z
-SUMMARY:Optique instrumentale (Exam)
-UID:ApEdtElv_70132
+DTSTART:20261022T120000Z
+SUMMARY:PARTIEL OO - Optique physique (Exam)
+UID:ApEdtElv_70133
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : PARTIEL OO - Optique physique\nType : Examen écrit\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B
+DTEND:20261022T144000Z
+LOCATION:Amphithéâtre Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B
+DTSTART:20261022T120000Z
+SUMMARY:PARTIEL OO - Optique physique (Exam)
+UID:ApEdtElv_70134
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : EXAMEN M1 - Mathématiques & signal 1\nType : Examen écrit\nCode : 5N-029-SCI\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DTEND:20261023T140000Z
+LOCATION:Auditorium Palaiseau
+DTSTART:20261023T120000Z
+SUMMARY:EXAMEN M1 - Mathématiques & signal 1 (Exam)
+UID:ApEdtElv_70135
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : EXAMEN M1 - Mathématiques & signal 1\nType : Examen écrit\nCode : 5N-029-SCI\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau\, Salle S2.11\, Salle S2.11A\, Salle S2.11B
+DTEND:20261023T144000Z
+LOCATION:Amphithéâtre Palaiseau\, Salle S2.11\, Salle S2.11A\, Salle S2.11B
+DTSTART:20261023T120000Z
+SUMMARY:EXAMEN M1 - Mathématiques & signal 1 (Exam)
+UID:ApEdtElv_70136
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : PARTIEL OI - Optique instrumentale\nType : Examen écrit\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3\, Salle S2.3A\, Salle S2.3B
+DTEND:20261022T110000Z
+LOCATION:Salle S2.3\, Salle S2.3A\, Salle S2.3B
+DTSTART:20261022T070000Z
+SUMMARY:PARTIEL OI - Optique instrumentale (Exam)
+UID:ApEdtElv_70139
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : DE ROSSI Sébastien\nSalle(s) : Amphithéâtre Palaiseau
@@ -880,12 +928,20 @@ SUMMARY:Optoélectronique (TP)
 UID:ApEdtElv_69518
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle N2.1
-DTEND:20260908T100000Z
-LOCATION:Salle S2.11\, Salle N2.1
-DTSTART:20260908T063000Z
-SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
-UID:ApEdtElv_68082
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.16
+DTEND:20261209T161500Z
+LOCATION:Salle S2.16
+DTSTART:20261209T144500Z
+SUMMARY:Mathématiques & signal 2 (TD)
+UID:ApEdtElv_68880
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.16
+DTEND:20261216T161500Z
+LOCATION:Salle S2.16
+DTSTART:20261216T144500Z
+SUMMARY:Mathématiques & signal 2 (TD)
+UID:ApEdtElv_68882
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nIntervenant(s) : TUALLE BROURI Rosa\nSalle(s) : Salle S2.18
@@ -902,6 +958,14 @@ LOCATION:Salle S2.8
 DTSTART:20260921T084500Z
 SUMMARY:Anglais (TD)
 UID:ApEdtElv_66504
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle N2.1
+DTEND:20260908T100000Z
+LOCATION:Salle S2.11\, Salle N2.1
+DTSTART:20260908T063000Z
+SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_68082
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Mathématiques & signal 1\nType : Cours magistral\nCode : 5N-029-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : GOUDAIL François\nSalle(s) : Amphithéâtre Palaiseau
@@ -992,12 +1056,12 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67877
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle S2.9B\, Salle S2.9
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9B\, Salle S2.9\, Salle S2.11
 DTEND:20260907T153000Z
-LOCATION:Salle S2.11\, Salle S2.9B\, Salle S2.9
+LOCATION:Salle S2.9B\, Salle S2.9\, Salle S2.11
 DTSTART:20260907T120000Z
 SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
-UID:ApEdtElv_68076
+UID:ApEdtElv_68075
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
@@ -1232,6 +1296,30 @@ SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66978
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20261123T143000Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20261123T130000Z
+SUMMARY:Mathématiques & signal 2 (CM)
+UID:ApEdtElv_68040
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20261207T143000Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20261207T130000Z
+SUMMARY:Mathématiques & signal 2 (CM)
+UID:ApEdtElv_68042
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DTEND:20261214T143000Z
+LOCATION:Auditorium Palaiseau
+DTSTART:20261214T130000Z
+SUMMARY:Mathématiques & signal 2 (CM)
+UID:ApEdtElv_68043
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
 DTEND:20261116T161500Z
 LOCATION:Salle S2.14
@@ -1278,6 +1366,22 @@ LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261126T080000Z
 SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67296
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.3A
+DTEND:20270106T111500Z
+LOCATION:Salle S2.3A
+DTSTART:20270106T094500Z
+SUMMARY:Mathématiques & signal 2 (TD)
+UID:ApEdtElv_68718
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DTEND:20261125T161500Z
+LOCATION:Salle S2.18
+DTSTART:20261125T144500Z
+SUMMARY:Mathématiques & signal 2 (TD)
+UID:ApEdtElv_69299
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Mathématiques & signal 1\nType : Travaux dirigés\nCode : 5N-029-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : PISSONDES Jean-Claude\nSalle(s) : 503 salle 1.27
@@ -1344,6 +1448,14 @@ SUMMARY:réunion de lancement du CFA - 1A S5 Réunion et Présentation (CM)
 UID:ApEdtElv_65968
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20261102T143000Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20261102T130000Z
+SUMMARY:Mathématiques & signal 2 (CM)
+UID:ApEdtElv_68037
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Présentation des sites - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261015T101500Z
 LOCATION:Amphithéâtre Palaiseau
@@ -1360,20 +1472,20 @@ SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_70032
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
-DTEND:20261014T151500Z
-LOCATION:Amphithéâtre Palaiseau
-DTSTART:20261014T134500Z
-SUMMARY:Optique ondulatoire - Optique physique (CM)
-UID:ApEdtElv_67032
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.14
 DTEND:20261113T143000Z
 LOCATION:Salle S2.14
 DTSTART:20261113T130000Z
 SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_69282
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20261014T151500Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20261014T134500Z
+SUMMARY:Optique ondulatoire - Optique physique (CM)
+UID:ApEdtElv_67032
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Présentation de la médiathèque - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : EDWARDS Marie Laure\nSalle(s) : Amphithéâtre Palaiseau

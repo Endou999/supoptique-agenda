@@ -4,6 +4,22 @@ X-WR-TIMEZONE:Europe/Paris
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DTEND:20261109T143000Z
+LOCATION:Auditorium Palaiseau
+DTSTART:20261109T130000Z
+SUMMARY:Mathématiques & signal 2 (CM)
+UID:ApEdtElv_69278
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DTEND:20261116T143000Z
+LOCATION:Auditorium Palaiseau
+DTSTART:20261116T130000Z
+SUMMARY:Mathématiques & signal 2 (CM)
+UID:ApEdtElv_69279
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-024-PHY\nGroupe : Tous les étudiants\nIntervenant(s) : TUALLE BROURI Rosa\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261012T151500Z
 LOCATION:Amphithéâtre Palaiseau
@@ -332,6 +348,30 @@ SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66978
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20261123T143000Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20261123T130000Z
+SUMMARY:Mathématiques & signal 2 (CM)
+UID:ApEdtElv_68040
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20261207T143000Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20261207T130000Z
+SUMMARY:Mathématiques & signal 2 (CM)
+UID:ApEdtElv_68042
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DTEND:20261214T143000Z
+LOCATION:Auditorium Palaiseau
+DTSTART:20261214T130000Z
+SUMMARY:Mathématiques & signal 2 (CM)
+UID:ApEdtElv_68043
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Mathématiques & signal 1\nType : Cours magistral\nCode : 5N-029-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : GOUDAIL François\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261005T133000Z
 LOCATION:Amphithéâtre Palaiseau
@@ -434,6 +474,14 @@ LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261015T113000Z
 SUMMARY:réunion de lancement du CFA - 1A S5 Réunion et Présentation (CM)
 UID:ApEdtElv_65968
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20261102T143000Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20261102T130000Z
+SUMMARY:Mathématiques & signal 2 (CM)
+UID:ApEdtElv_68037
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Présentation des sites - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
