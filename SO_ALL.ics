@@ -36,6 +36,14 @@ SUMMARY:Atelier de prévention aux VSS - Prévention des violences sexuelles et 
 UID:ApEdtElv_69146
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Atelier de prévention aux VSS - Prévention des violences sexuelles et sexistes\nType : Présentation\nCode : 5N-030-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18
+DTEND:20261001T160000Z
+LOCATION:Salle S2.18
+DTSTART:20261001T120000Z
+SUMMARY:Atelier de prévention aux VSS - Prévention des violences sexuelles et sexistes (Présentation)
+UID:ApEdtElv_70147
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Mathématiques & signal 1\nType : Travaux dirigés\nCode : 5N-029-SCI\nGroupe : 1A Groupe 4\nSalle(s) : 503 salle 1.27
 DTEND:20260918T133000Z
 LOCATION:503 salle 1.27
@@ -556,9 +564,9 @@ SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67584
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
 DTEND:20260908T153000Z
-LOCATION:Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
 DTSTART:20260908T120000Z
 SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69205
@@ -746,14 +754,6 @@ LOCATION:Salle S2.8
 DTSTART:20261207T094500Z
 SUMMARY:Anglais (TD)
 UID:ApEdtElv_67677
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
-DTEND:20261214T114500Z
-LOCATION:Salle S2.8
-DTSTART:20261214T094500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_67678
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
@@ -1056,12 +1056,20 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67877
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9B\, Salle S2.9\, Salle S2.11
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9B\, Salle S2.11\, Salle S2.9
 DTEND:20260907T153000Z
-LOCATION:Salle S2.9B\, Salle S2.9\, Salle S2.11
+LOCATION:Salle S2.9B\, Salle S2.11\, Salle S2.9
 DTSTART:20260907T120000Z
 SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_68075
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\, LEBBE Renata\nSalle(s) : Salle S2.11\, Salle S2.11A\, Salle S2.11B
+DTEND:20261214T114500Z
+LOCATION:Salle S2.11\, Salle S2.11A\, Salle S2.11B
+DTSTART:20261214T094500Z
+SUMMARY:Anglais (TD)
+UID:ApEdtElv_67741
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
@@ -1096,12 +1104,12 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_68061
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : LEBBE Renata\nSalle(s) : Salle S2.14\, Salle S2.8
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.14
 DTEND:20260908T133000Z
-LOCATION:Salle S2.14\, Salle S2.8
+LOCATION:Salle S2.8\, Salle S2.14
 DTSTART:20260908T113000Z
 SUMMARY:Anglais (TD)
-UID:ApEdtElv_68063
+UID:ApEdtElv_68062
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.14

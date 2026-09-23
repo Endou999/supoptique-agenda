@@ -44,12 +44,12 @@ SUMMARY:Atelier de prévention aux VSS - Prévention des violences sexuelles et 
 UID:ApEdtElv_69146
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
-DTEND:20260908T153000Z
-LOCATION:Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
-DTSTART:20260908T120000Z
-SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
-UID:ApEdtElv_69205
+DESCRIPTION:Matière : Atelier de prévention aux VSS - Prévention des violences sexuelles et sexistes\nType : Présentation\nCode : 5N-030-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18
+DTEND:20261001T160000Z
+LOCATION:Salle S2.18
+DTSTART:20261001T120000Z
+SUMMARY:Atelier de prévention aux VSS - Prévention des violences sexuelles et sexistes (Présentation)
+UID:ApEdtElv_70147
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
@@ -60,6 +60,14 @@ SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69210
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+DTEND:20260908T153000Z
+LOCATION:Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+DTSTART:20260908T120000Z
+SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_69205
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Pièce de théâtre - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
 DTEND:20260909T173000Z
 LOCATION:Auditorium Palaiseau
@@ -68,9 +76,9 @@ SUMMARY:Pièce de théâtre - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69327
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9B\, Salle S2.9\, Salle S2.11
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9B\, Salle S2.11\, Salle S2.9
 DTEND:20260907T153000Z
-LOCATION:Salle S2.9B\, Salle S2.9\, Salle S2.11
+LOCATION:Salle S2.9B\, Salle S2.11\, Salle S2.9
 DTSTART:20260907T120000Z
 SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_68075

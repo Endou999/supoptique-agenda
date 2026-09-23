@@ -452,14 +452,6 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_67677
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
-DTEND:20261214T114500Z
-LOCATION:Salle S2.8
-DTSTART:20261214T094500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_67678
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261019T083000Z
 LOCATION:Salle S2.7
@@ -620,6 +612,14 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67877
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\, LEBBE Renata\nSalle(s) : Salle S2.11\, Salle S2.11A\, Salle S2.11B
+DTEND:20261214T114500Z
+LOCATION:Salle S2.11\, Salle S2.11A\, Salle S2.11B
+DTSTART:20261214T094500Z
+SUMMARY:Anglais (TD)
+UID:ApEdtElv_67741
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.8\, Salle S2.10
 DTEND:20260909T083000Z
 LOCATION:Salle S2.8\, Salle S2.10
@@ -636,12 +636,12 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_68061
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : LEBBE Renata\nSalle(s) : Salle S2.14\, Salle S2.8
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.14
 DTEND:20260908T133000Z
-LOCATION:Salle S2.14\, Salle S2.8
+LOCATION:Salle S2.8\, Salle S2.14
 DTSTART:20260908T113000Z
 SUMMARY:Anglais (TD)
-UID:ApEdtElv_68063
+UID:ApEdtElv_68062
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.14
