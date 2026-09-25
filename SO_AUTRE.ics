@@ -12,30 +12,6 @@ SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_68076
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle N2.1\, Salle S2.11
-DTEND:20260908T153000Z
-LOCATION:Salle N2.1\, Salle S2.11
-DTSTART:20260908T120000Z
-SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
-UID:ApEdtElv_69200
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9B\, Salle S2.9
-DTEND:20260908T100000Z
-LOCATION:Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9B\, Salle S2.9
-DTSTART:20260908T063000Z
-SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
-UID:ApEdtElv_69202
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle N2.1
-DTEND:20260908T100000Z
-LOCATION:Salle S2.11\, Salle N2.1
-DTSTART:20260908T063000Z
-SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
-UID:ApEdtElv_68082
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Matière : Atelier de prévention aux VSS - Prévention des violences sexuelles et sexistes\nType : Présentation\nCode : 5N-030-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : LESAGE-MATHIEU -  BATIFOIX Anne-Claire\nSalle(s) : Salle S2.18
 DTEND:20261112T170000Z
 LOCATION:Salle S2.18
@@ -60,12 +36,49 @@ SUMMARY:Atelier de prévention aux VSS - Prévention des violences sexuelles et 
 UID:ApEdtElv_70147
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.3\, Salle S2.18\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
 DTEND:20260909T100000Z
-LOCATION:Salle S2.3B\, Salle S2.3\, Salle S2.18\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
 DTSTART:20260909T063000Z
 SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69210
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Armistice de 1918 - Catégories concernées : pour tout le monde\nType : Jour férié
+DTEND:20261111T230000Z
+DTSTART:20261110T230000Z
+SUMMARY:Armistice de 1918 - Catégories concernées : pour tout le monde (Jour férié)
+UID:EvtEcole_634
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : FORUM DE LA PHOTONIQUE - Catégories concernées : pour tout le monde\nType : Forum
+DTEND:20261119T230000Z
+DTSTART:20261118T230000Z
+SUMMARY:FORUM DE LA PHOTONIQUE - Catégories concernées : pour tout le monde (Forum)
+UID:EvtEcole_635
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : VACANCES - Catégories concernées : pour tout le monde\nType : Vacances
+DTEND:20270101T230000Z
+DTSTART:20261220T230000Z
+SUMMARY:VACANCES - Catégories concernées : pour tout le monde (Vacances)
+UID:EvtEcole_637
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle N2.1\, Salle S2.11
+DTEND:20260908T153000Z
+LOCATION:Salle N2.1\, Salle S2.11
+DTSTART:20260908T120000Z
+SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_69200
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9B\, Salle S2.9
+DTEND:20260908T100000Z
+LOCATION:Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9B\, Salle S2.9
+DTSTART:20260908T063000Z
+SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_69202
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
@@ -76,11 +89,130 @@ SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69205
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Jury 2A Semestre 8 Final - salle Chavel - Jury 2A Semestre 8 Final - Jury de passage 3A - Catégories concernées : pour tout le monde\nType : Jury\nSalle(s) : C3.01
+DTEND:20270617T140000Z
+LOCATION:C3.01
+DTSTART:20270617T120000Z
+SUMMARY:Jury 2A Semestre 8 Final - salle Chavel - Jury 2A Semestre 8 Final - Jury de passage 3A - Catégories concernées : pour tout le monde (Jury)
+UID:EvtEcole_620
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Jury 1A Semestre 6 Final - salle Chavel - Jury 1A Semestre 6 Final - Jury de passage - Catégories concernées : pour tout le monde\nType : Jury\nSalle(s) : C3.01
+DTEND:20270625T100000Z
+LOCATION:C3.01
+DTSTART:20270625T080000Z
+SUMMARY:Jury 1A Semestre 6 Final - salle Chavel - Jury 1A Semestre 6 Final - Jury de passage - Catégories concernées : pour tout le monde (Jury)
+UID:EvtEcole_621
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Pièce de théâtre - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
 DTEND:20260909T173000Z
 LOCATION:Auditorium Palaiseau
 DTSTART:20260909T160000Z
 SUMMARY:Pièce de théâtre - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69327
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Jury 1A Semestre 5 Initial - Salle Chavel\nType : Jury\nSalle(s) : C3.01
+DTEND:20270204T150000Z
+LOCATION:C3.01
+DTSTART:20270204T130000Z
+SUMMARY:Jury 1A Semestre 5 Initial - Salle Chavel (Jury)
+UID:EvtEcole_610
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Jury 2A Semestre 7 Initial - salle Chavel - Jury 2A Semestre 7 Initial (National) - Catégories concernées : pour tout le monde\nType : Jury\nSalle(s) : C3.01
+DTEND:20270225T150000Z
+LOCATION:C3.01
+DTSTART:20270225T130000Z
+SUMMARY:Jury 2A Semestre 7 Initial - salle Chavel - Jury 2A Semestre 7 Initial (National) - Catégories concernées : pour tout le monde (Jury)
+UID:EvtEcole_611
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Jury 1A Semestre 5 Final - salle Chavel\nType : Jury\nSalle(s) : C3.01
+DTEND:20270304T150000Z
+LOCATION:C3.01
+DTSTART:20270304T130000Z
+SUMMARY:Jury 1A Semestre 5 Final - salle Chavel (Jury)
+UID:EvtEcole_612
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Jury 3A Semestre 9 Initial - salle Chavel - Jury 3A Semestre 9 Initial - National - Catégories concernées : pour tout le monde\nType : Jury\nSalle(s) : C3.01
+DTEND:20270311T150000Z
+LOCATION:C3.01
+DTSTART:20270311T130000Z
+SUMMARY:Jury 3A Semestre 9 Initial - salle Chavel - Jury 3A Semestre 9 Initial - National - Catégories concernées : pour tout le monde (Jury)
+UID:EvtEcole_613
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Commission d'appel\nType : Jury\nSalle(s) : C3.01
+DTEND:20270326T110000Z
+LOCATION:C3.01
+DTSTART:20270326T090000Z
+SUMMARY:Commission d'appel (Jury)
+UID:EvtEcole_614
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Jury 2A Semestre 7 Final - salle Chavel - Jury 2A Semestre 7 Final - National - Catégories concernées : pour tout le monde\nType : Jury\nSalle(s) : C3.01
+DTEND:20270401T140000Z
+LOCATION:C3.01
+DTSTART:20270401T120000Z
+SUMMARY:Jury 2A Semestre 7 Final - salle Chavel - Jury 2A Semestre 7 Final - National - Catégories concernées : pour tout le monde (Jury)
+UID:EvtEcole_615
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Commission d'accès aux DD 3A - salle Chavel\nType : Jury\nSalle(s) : C3.01
+DTEND:20270401T160000Z
+LOCATION:C3.01
+DTSTART:20270401T140000Z
+SUMMARY:Commission d'accès aux DD 3A - salle Chavel (Jury)
+UID:EvtEcole_616
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Jury 2A Semestre 8 Initial - salle Chavel - Jury 2A Semestre 8 Initial - National - Catégories concernées : pour tout le monde\nType : Jury\nSalle(s) : C3.01
+DTEND:20270527T140000Z
+LOCATION:C3.01
+DTSTART:20270527T120000Z
+SUMMARY:Jury 2A Semestre 8 Initial - salle Chavel - Jury 2A Semestre 8 Initial - National - Catégories concernées : pour tout le monde (Jury)
+UID:EvtEcole_617
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Jury 3A Semestre 9 Final - salle Chavel - Jury 3A Semestre 9 Final - National - Catégories concernées : pour tout le monde\nType : Jury\nSalle(s) : C3.01
+DTEND:20270603T140000Z
+LOCATION:C3.01
+DTSTART:20270603T120000Z
+SUMMARY:Jury 3A Semestre 9 Final - salle Chavel - Jury 3A Semestre 9 Final - National - Catégories concernées : pour tout le monde (Jury)
+UID:EvtEcole_618
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Jury 1A Semestre 6 Initial - salle Chavel - Jury 1A Semestre 6 Initial - National - Catégories concernées : pour tout le monde\nType : Jury\nSalle(s) : C3.01
+DTEND:20270610T140000Z
+LOCATION:C3.01
+DTSTART:20270610T120000Z
+SUMMARY:Jury 1A Semestre 6 Initial - salle Chavel - Jury 1A Semestre 6 Initial - National - Catégories concernées : pour tout le monde (Jury)
+UID:EvtEcole_619
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle N2.1
+DTEND:20260908T100000Z
+LOCATION:Salle S2.11\, Salle N2.1
+DTSTART:20260908T063000Z
+SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_68082
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Jury de diplomation - salle Chavel - Jury de diplomation promotion 2026 - Catégories concernées : pour tout le monde\nType : Jury\nSalle(s) : C3.01
+DTEND:20261015T130000Z
+LOCATION:C3.01
+DTSTART:20261015T113000Z
+SUMMARY:Jury de diplomation - salle Chavel - Jury de diplomation promotion 2026 - Catégories concernées : pour tout le monde (Jury)
+UID:EvtEcole_609
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : PAQUES - Catégories concernées : pour tout le monde\nType : Jour férié
+DTEND:20270329T220000Z
+DTSTART:20270328T220000Z
+SUMMARY:PAQUES - Catégories concernées : pour tout le monde (Jour férié)
+UID:EvtEcole_640
 END:VEVENT
 END:VCALENDAR
