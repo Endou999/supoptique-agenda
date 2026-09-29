@@ -4,12 +4,12 @@ X-WR-TIMEZONE:Europe/Paris
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Matière : EXAMEN M1 - Mathématiques & signal 1\nType : Examen écrit\nCode : 5N-029-SCI\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau\, Salle S2.11\, Salle S2.11A\, Salle S2.11B
+DESCRIPTION:Matière : EXAMEN M1 - Mathématiques & signal 1\nType : Examen écrit\nCode : 5N-029-SCI\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle S2.11A\, Salle S2.11B
 DTEND:20261023T144000Z
-LOCATION:Amphithéâtre Palaiseau\, Salle S2.11\, Salle S2.11A\, Salle S2.11B
+LOCATION:Salle S2.11\, Salle S2.11A\, Salle S2.11B
 DTSTART:20261023T120000Z
 SUMMARY:EXAMEN M1 - Mathématiques & signal 1 (Exam)
-UID:ApEdtElv_70136
+UID:ApEdtElv_70138
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : PARTIEL OI - Optique instrumentale\nType : Examen écrit\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3\, Salle S2.3A\, Salle S2.3B
@@ -52,9 +52,9 @@ SUMMARY:PARTIEL OO - Optique physique (Exam)
 UID:ApEdtElv_70134
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : EXAMEN M1 - Mathématiques & signal 1\nType : Examen écrit\nCode : 5N-029-SCI\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DESCRIPTION:Matière : EXAMEN M1 - Mathématiques & signal 1\nType : Examen écrit\nCode : 5N-029-SCI\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau\, Amphithéâtre Palaiseau
 DTEND:20261023T140000Z
-LOCATION:Auditorium Palaiseau
+LOCATION:Auditorium Palaiseau\, Amphithéâtre Palaiseau
 DTSTART:20261023T120000Z
 SUMMARY:EXAMEN M1 - Mathématiques & signal 1 (Exam)
 UID:ApEdtElv_70135
