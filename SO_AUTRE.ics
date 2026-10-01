@@ -4,14 +4,6 @@ X-WR-TIMEZONE:Europe/Paris
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle S2.9\, Salle S2.9B
-DTEND:20260907T153000Z
-LOCATION:Salle S2.11\, Salle S2.9\, Salle S2.9B
-DTSTART:20260907T120000Z
-SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
-UID:ApEdtElv_68076
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Matière : Atelier de prévention aux VSS - Prévention des violences sexuelles et sexistes\nType : Présentation\nCode : 5N-030-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : LESAGE-MATHIEU -  BATIFOIX Anne-Claire\nSalle(s) : Salle S2.18
 DTEND:20261112T170000Z
 LOCATION:Salle S2.18
@@ -26,14 +18,6 @@ LOCATION:Salle S2.18
 DTSTART:20261210T130000Z
 SUMMARY:Atelier de prévention aux VSS - Prévention des violences sexuelles et sexistes (Présentation)
 UID:ApEdtElv_69146
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Atelier de prévention aux VSS - Prévention des violences sexuelles et sexistes\nType : Présentation\nCode : 5N-030-FHP\nGroupe : VSS 3\nIntervenant(s) : LESAGE-MATHIEU -  BATIFOIX Anne-Claire\nSalle(s) : Salle S2.18
-DTEND:20261001T160000Z
-LOCATION:Salle S2.18
-DTSTART:20261001T120000Z
-SUMMARY:Atelier de prévention aux VSS - Prévention des violences sexuelles et sexistes (Présentation)
-UID:ApEdtElv_70147
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.3\, Salle S2.18\, Salle S2.9\, Salle S2.9B
@@ -81,9 +65,9 @@ SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69202
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
 DTEND:20260908T153000Z
-LOCATION:Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
 DTSTART:20260908T120000Z
 SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69205
@@ -214,5 +198,13 @@ DTEND:20270329T220000Z
 DTSTART:20270328T220000Z
 SUMMARY:PAQUES - Catégories concernées : pour tout le monde (Jour férié)
 UID:EvtEcole_640
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9\, Salle S2.9B\, Salle S2.11
+DTEND:20260907T153000Z
+LOCATION:Salle S2.9\, Salle S2.9B\, Salle S2.11
+DTSTART:20260907T120000Z
+SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
+UID:ApEdtElv_68074
 END:VEVENT
 END:VCALENDAR
