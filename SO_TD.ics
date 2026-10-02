@@ -108,22 +108,6 @@ SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_67494
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
-DTEND:20261019T104500Z
-LOCATION:Salle S2.8
-DTSTART:20261019T084500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_66494
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
-DTEND:20261012T104500Z
-LOCATION:Salle S2.8
-DTSTART:20261012T084500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_66496
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Matière : LV2 Allemand - Allemand Niveau C sem5\nType : Travaux dirigés\nCode : 5N-003-FHP\nGroupe : 1A-ALLEMAND C\nIntervenant(s) : PALMINO Beate\nSalle(s) : Salle S2.14
 DTEND:20261009T083000Z
 LOCATION:Salle S2.14
@@ -132,20 +116,20 @@ SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
 UID:ApEdtElv_69913
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
-DTEND:20261005T104500Z
-LOCATION:Salle S2.8
-DTSTART:20261005T084500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_66492
+DESCRIPTION:Matière : LV2 Allemand - Allemand Niveau C sem5\nType : Travaux dirigés\nCode : 5N-003-FHP\nGroupe : 1A-ALLEMAND C\nIntervenant(s) : PALMINO Beate\nSalle(s) : Salle S2.14
+DTEND:20260918T083000Z
+LOCATION:Salle S2.14
+DTSTART:20260918T063000Z
+SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
+UID:ApEdtElv_69916
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : BERNARD Jeanne\nSalle(s) : Salle S2.14
-DTEND:20261021T101500Z
+DESCRIPTION:Matière : LV2 Allemand - Allemand Niveau C sem5\nType : Travaux dirigés\nCode : 5N-003-FHP\nGroupe : 1A-ALLEMAND C\nIntervenant(s) : PALMINO Beate\nSalle(s) : Salle S2.14
+DTEND:20260925T083000Z
 LOCATION:Salle S2.14
-DTSTART:20261021T084500Z
-SUMMARY:Optique instrumentale (TD)
-UID:ApEdtElv_68361
+DTSTART:20260925T063000Z
+SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
+UID:ApEdtElv_69915
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : LV2 Allemand - Allemand Niveau C sem5\nType : Travaux dirigés\nCode : 5N-003-FHP\nGroupe : 1A-ALLEMAND C\nIntervenant(s) : PALMINO Beate\nSalle(s) : Salle S2.14
@@ -156,20 +140,20 @@ SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
 UID:ApEdtElv_69914
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : BERNARD Jeanne\nSalle(s) : Salle S2.14
+DTEND:20261021T101500Z
+LOCATION:Salle S2.14
+DTSTART:20261021T084500Z
+SUMMARY:Optique instrumentale (TD)
+UID:ApEdtElv_68361
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : DUPUIS Guillaume\nSalle(s) : Salle S2.14
 DTEND:20261104T111500Z
 LOCATION:Salle S2.14
 DTSTART:20261104T094500Z
 SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68363
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
-DTEND:20260928T104500Z
-LOCATION:Salle S2.8
-DTSTART:20260928T084500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_66493
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : DUPUIS Guillaume\nSalle(s) : Salle S2.14
@@ -186,14 +170,6 @@ LOCATION:Salle S2.9B
 DTSTART:20261125T094500Z
 SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68366
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : LV2 Allemand - Allemand Niveau C sem5\nType : Travaux dirigés\nCode : 5N-003-FHP\nGroupe : 1A-ALLEMAND C\nIntervenant(s) : PALMINO Beate\nSalle(s) : Salle S2.14
-DTEND:20260918T083000Z
-LOCATION:Salle S2.14
-DTSTART:20260918T063000Z
-SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
-UID:ApEdtElv_69916
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : DUPUIS Guillaume\nSalle(s) : Salle S2.16
@@ -324,14 +300,6 @@ SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68357
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
-DTEND:20260914T104500Z
-LOCATION:Salle S2.8
-DTSTART:20260914T084500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_66474
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Matière : Mathématiques & signal 1\nType : Travaux dirigés\nCode : 5N-029-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : PISSONDES Jean-Claude\nSalle(s) : Salle N2.1
 DTEND:20261007T083000Z
 LOCATION:Salle N2.1
@@ -410,46 +378,6 @@ LOCATION:503 salle 1.22
 DTSTART:20260918T134500Z
 SUMMARY:Optoélectronique (TD)
 UID:ApEdtElv_67429
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
-DTEND:20261102T114500Z
-LOCATION:Salle S2.8
-DTSTART:20261102T094500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_67672
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
-DTEND:20261109T114500Z
-LOCATION:Salle S2.8
-DTSTART:20261109T094500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_67673
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
-DTEND:20261116T114500Z
-LOCATION:Salle S2.8
-DTSTART:20261116T094500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_67674
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
-DTEND:20261123T114500Z
-LOCATION:Salle S2.8
-DTSTART:20261123T094500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_67675
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
-DTEND:20261207T114500Z
-LOCATION:Salle S2.8
-DTSTART:20261207T094500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_67677
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
@@ -540,14 +468,6 @@ SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_68503
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
-DTEND:20260921T104500Z
-LOCATION:Salle S2.8
-DTSTART:20260921T084500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_66504
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : FAYAT Milan\nSalle(s) : Salle S2.14
 DTEND:20261019T151500Z
 LOCATION:Salle S2.14
@@ -562,6 +482,14 @@ LOCATION:Salle S2.5
 DTSTART:20261102T073000Z
 SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67871
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nIntervenant(s) : BASSET Hugo\nSalle(s) : Salle S2.18
+DTEND:20261209T143000Z
+LOCATION:Salle S2.18
+DTSTART:20261209T130000Z
+SUMMARY:Mécanique quantique (TD)
+UID:ApEdtElv_68872
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
@@ -588,14 +516,6 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67874
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nIntervenant(s) : BASSET Hugo\nSalle(s) : Salle S2.18
-DTEND:20261209T143000Z
-LOCATION:Salle S2.18
-DTSTART:20261209T130000Z
-SUMMARY:Mécanique quantique (TD)
-UID:ApEdtElv_68872
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
 DTEND:20261207T093000Z
 LOCATION:Salle S2.7
@@ -610,14 +530,6 @@ LOCATION:Salle S2.7
 DTSTART:20261214T073000Z
 SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67877
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\, LEBBE Renata\nSalle(s) : Salle S2.11\, Salle S2.11A\, Salle S2.11B
-DTEND:20261214T114500Z
-LOCATION:Salle S2.11\, Salle S2.11A\, Salle S2.11B
-DTSTART:20261214T094500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_67741
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : Carlisle Jacinda\nSalle(s) : Salle S2.8\, Salle S2.10
@@ -652,14 +564,6 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_68064
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : LV2 Allemand - Allemand Niveau C sem5\nType : Travaux dirigés\nCode : 5N-003-FHP\nGroupe : 1A-ALLEMAND C\nIntervenant(s) : PALMINO Beate\nSalle(s) : Salle S2.14
-DTEND:20260925T083000Z
-LOCATION:Salle S2.14
-DTSTART:20260925T063000Z
-SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
-UID:ApEdtElv_69915
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : LEBBE Renata\nSalle(s) : Salle S2.10\, Salle S2.8
 DTEND:20260908T083000Z
 LOCATION:Salle S2.10\, Salle S2.8
@@ -668,20 +572,20 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_68054
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : LEBBE Renata\nSalle(s) : Salle S2.10\, Salle S2.8
-DTEND:20260908T104500Z
-LOCATION:Salle S2.10\, Salle S2.8
-DTSTART:20260908T084500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_68055
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nIntervenant(s) : MARTIN Romain\nSalle(s) : Salle S2.14
 DTEND:20261125T143000Z
 LOCATION:Salle S2.14
 DTSTART:20261125T130000Z
 SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_68856
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.10
+DTEND:20260908T104500Z
+LOCATION:Salle S2.8\, Salle S2.10
+DTSTART:20260908T084500Z
+SUMMARY:Anglais (TD)
+UID:ApEdtElv_68057
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : Château Gabin\nSalle(s) : Salle S2.14
