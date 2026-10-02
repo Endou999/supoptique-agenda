@@ -36,14 +36,6 @@ SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66990
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
-DTEND:20261008T101500Z
-LOCATION:Amphithéâtre Palaiseau
-DTSTART:20261008T084500Z
-SUMMARY:Optique ondulatoire - Optique physique (CM)
-UID:ApEdtElv_66991
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-024-PHY\nGroupe : Tous les étudiants\nIntervenant(s) : TUALLE BROURI Rosa\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261102T161500Z
 LOCATION:Amphithéâtre Palaiseau
@@ -116,12 +108,44 @@ SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67333
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : DE ROSSI Sébastien\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20260930T133000Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20260930T120000Z
+SUMMARY:Optique instrumentale (CM)
+UID:ApEdtElv_69185
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : PAPAGIANNOULI Eirini\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261211T111500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261211T094500Z
 SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66980
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Présentation des sites - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20261015T101500Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20261015T084500Z
+SUMMARY:Présentation des sites - 1A S5 Réunion et Présentation (CM)
+UID:ApEdtElv_70030
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : DE ROSSI Sébastien\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20260916T133000Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20260916T120000Z
+SUMMARY:Optique instrumentale (CM)
+UID:ApEdtElv_69183
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : DE ROSSI Sébastien\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20260923T133000Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20260923T120000Z
+SUMMARY:Optique instrumentale (CM)
+UID:ApEdtElv_69184
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : DE ROSSI Sébastien\nSalle(s) : Amphithéâtre Palaiseau
@@ -140,14 +164,6 @@ SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67584
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : DE ROSSI Sébastien\nSalle(s) : Amphithéâtre Palaiseau
-DTEND:20260916T133000Z
-LOCATION:Amphithéâtre Palaiseau
-DTSTART:20260916T120000Z
-SUMMARY:Optique instrumentale (CM)
-UID:ApEdtElv_69183
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-024-PHY\nGroupe : Tous les étudiants\nIntervenant(s) : TUALLE BROURI Rosa\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20260914T151500Z
 LOCATION:Amphithéâtre Palaiseau
@@ -156,20 +172,20 @@ SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67206
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-024-PHY\nGroupe : Tous les étudiants\nIntervenant(s) : TUALLE BROURI Rosa\nSalle(s) : Amphithéâtre Palaiseau
-DTEND:20260921T151500Z
-LOCATION:Amphithéâtre Palaiseau
-DTSTART:20260921T134500Z
-SUMMARY:Mécanique quantique (CM)
-UID:ApEdtElv_67207
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : DE ROSSI Sébastien\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261016T101500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261016T084500Z
 SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67250
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-024-PHY\nGroupe : Tous les étudiants\nIntervenant(s) : TUALLE BROURI Rosa\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20260921T151500Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20260921T134500Z
+SUMMARY:Mécanique quantique (CM)
+UID:ApEdtElv_67207
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-024-PHY\nGroupe : Tous les étudiants\nIntervenant(s) : TUALLE BROURI Rosa\nSalle(s) : Amphithéâtre Palaiseau
@@ -186,30 +202,6 @@ LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261005T134500Z
 SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67209
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : DE ROSSI Sébastien\nSalle(s) : Amphithéâtre Palaiseau
-DTEND:20260923T133000Z
-LOCATION:Amphithéâtre Palaiseau
-DTSTART:20260923T120000Z
-SUMMARY:Optique instrumentale (CM)
-UID:ApEdtElv_69184
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : DE ROSSI Sébastien\nSalle(s) : Amphithéâtre Palaiseau
-DTEND:20260930T133000Z
-LOCATION:Amphithéâtre Palaiseau
-DTSTART:20260930T120000Z
-SUMMARY:Optique instrumentale (CM)
-UID:ApEdtElv_69185
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : DE ROSSI Sébastien\nSalle(s) : Amphithéâtre Palaiseau
-DTEND:20261007T133000Z
-LOCATION:Amphithéâtre Palaiseau
-DTSTART:20261007T120000Z
-SUMMARY:Optique instrumentale (CM)
-UID:ApEdtElv_69186
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : CLÉMENT David\nSalle(s) : Amphithéâtre Palaiseau
@@ -468,6 +460,14 @@ SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_67035
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : DE ROSSI Sébastien\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20261007T133000Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20261007T120000Z
+SUMMARY:Optique instrumentale (CM)
+UID:ApEdtElv_69186
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : réunion de lancement du CFA - 1A S5 Réunion et Présentation\nType : Séminaire\nCode : N-000-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261015T123000Z
 LOCATION:Amphithéâtre Palaiseau
@@ -482,14 +482,6 @@ LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261102T130000Z
 SUMMARY:Mathématiques & signal 2 (CM)
 UID:ApEdtElv_68037
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Présentation des sites - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
-DTEND:20261015T101500Z
-LOCATION:Amphithéâtre Palaiseau
-DTSTART:20261015T084500Z
-SUMMARY:Présentation des sites - 1A S5 Réunion et Présentation (CM)
-UID:ApEdtElv_70030
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
@@ -554,14 +546,6 @@ LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261001T070000Z
 SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67288
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Optique instrumentale\nType : Cours magistral\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : DE ROSSI Sébastien\nSalle(s) : Amphithéâtre Palaiseau
-DTEND:20261008T083000Z
-LOCATION:Amphithéâtre Palaiseau
-DTSTART:20261008T070000Z
-SUMMARY:Optique instrumentale (CM)
-UID:ApEdtElv_67289
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Mathématiques & signal 1\nType : Cours magistral\nCode : 5N-029-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : GOUDAIL François\nSalle(s) : Amphithéâtre Palaiseau
