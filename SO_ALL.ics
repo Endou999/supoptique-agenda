@@ -44,9 +44,9 @@ SUMMARY:Maths & Signal 1 (TD)
 UID:ApEdtElv_66949
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : LEVY Maé\nSalle(s) : Salle S2.9A
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : LEVY Maé\nSalle(s) : Salle S2.11\, Salle S2.11A\, Salle S2.11B
 DTEND:20261125T093000Z
-LOCATION:Salle S2.9A
+LOCATION:Salle S2.11\, Salle S2.11A\, Salle S2.11B
 DTSTART:20261125T080000Z
 SUMMARY:Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68262
@@ -164,8 +164,9 @@ SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_67494
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
 DTEND:20261019T104500Z
+LOCATION:Salle S2.8
 DTSTART:20261019T084500Z
 SUMMARY:Anglais (TD)
 UID:ApEdtElv_66494
@@ -235,9 +236,9 @@ SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68365
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : DUPUIS Guillaume\nSalle(s) : Salle S2.9B
+DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : DUPUIS Guillaume\nSalle(s) : Salle S2.13
 DTEND:20261125T111500Z
-LOCATION:Salle S2.9B
+LOCATION:Salle S2.13
 DTSTART:20261125T094500Z
 SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68366
@@ -275,17 +276,17 @@ SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68368
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : AMAZOUZ Yassir\nSalle(s) : Salle S2.9A
+DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : AMAZOUZ Yassir\nSalle(s) : Salle S2.11\, Salle S2.11A\, Salle S2.11B
 DTEND:20261210T111500Z
-LOCATION:Salle S2.9A
+LOCATION:Salle S2.11\, Salle S2.11A\, Salle S2.11B
 DTSTART:20261210T094500Z
 SUMMARY:Optoélectronique (TD)
 UID:ApEdtElv_68900
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : FONTBONNE Alice\nSalle(s) : Salle S2.3A
+DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : FONTBONNE Alice\nSalle(s) : Salle N2.1
 DTEND:20261127T143000Z
-LOCATION:Salle S2.3A
+LOCATION:Salle N2.1
 DTSTART:20261127T130000Z
 SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_67481
@@ -751,7 +752,7 @@ SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_69317
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : MARCIANO Mattéo\, THEMEZE Guillaume\nSalle(s) : Salle S2.7
 DTEND:20260921T083000Z
 LOCATION:Salle S2.7
 DTSTART:20260921T063000Z
@@ -807,29 +808,33 @@ SUMMARY:Optoélectronique (TD)
 UID:ApEdtElv_67429
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
 DTEND:20261102T114500Z
+LOCATION:Salle S2.8
 DTSTART:20261102T094500Z
 SUMMARY:Anglais (TD)
 UID:ApEdtElv_67672
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
 DTEND:20261109T114500Z
+LOCATION:Salle S2.8
 DTSTART:20261109T094500Z
 SUMMARY:Anglais (TD)
 UID:ApEdtElv_67673
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
 DTEND:20261116T114500Z
+LOCATION:Salle S2.8
 DTSTART:20261116T094500Z
 SUMMARY:Anglais (TD)
 UID:ApEdtElv_67674
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
 DTEND:20261123T114500Z
+LOCATION:Salle S2.8
 DTSTART:20261123T094500Z
 SUMMARY:Anglais (TD)
 UID:ApEdtElv_67675
@@ -843,7 +848,7 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_67677
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : Bret Tony\, PAQUIEZ Paul\nSalle(s) : Salle S2.7
 DTEND:20261019T083000Z
 LOCATION:Salle S2.7
 DTSTART:20261019T063000Z
@@ -851,7 +856,7 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66543
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : BONVALET Nathan\, MESSINA Riccardo\nSalle(s) : Salle S2.7
 DTEND:20261005T083000Z
 LOCATION:Salle S2.7
 DTSTART:20261005T063000Z
@@ -883,7 +888,7 @@ SUMMARY:Maths & Signal 1 (CM)
 UID:ApEdtElv_66829
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : Jehel Anaël\, MESSINA Riccardo\nSalle(s) : Salle S2.7
 DTEND:20261012T083000Z
 LOCATION:Salle S2.7
 DTSTART:20261012T063000Z
@@ -891,7 +896,7 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66535
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : GALLAND Nicolas\, THEMEZE Guillaume\nSalle(s) : Salle S2.7
 DTEND:20260928T083000Z
 LOCATION:Salle S2.7
 DTSTART:20260928T063000Z
@@ -955,7 +960,7 @@ SUMMARY:Optoélectronique (TP)
 UID:ApEdtElv_69525
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : DELEN Xavier\, Youlou Rebecca\nSalle(s) : Salle S2.7
 DTEND:20260914T083000Z
 LOCATION:Salle S2.7
 DTSTART:20260914T063000Z
@@ -993,9 +998,9 @@ SUMMARY:Maths & Signal 1 (CM)
 UID:ApEdtElv_66890
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : BONIN Gonzague\nSalle(s) : Salle S2.3A
+DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : BONIN Gonzague\nSalle(s) : Salle S2.14
 DTEND:20261210T093000Z
-LOCATION:Salle S2.3A
+LOCATION:Salle S2.14
 DTSTART:20261210T080000Z
 SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68893
@@ -1087,36 +1092,12 @@ SUMMARY:Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68756
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.5
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : JACQUART Maxime\, MEDDAS Amir\nSalle(s) : Salle S2.5
 DTEND:20261102T093000Z
 LOCATION:Salle S2.5
 DTSTART:20261102T073000Z
 SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67871
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
-DTEND:20261109T093000Z
-LOCATION:Salle S2.7
-DTSTART:20261109T073000Z
-SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
-UID:ApEdtElv_67872
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
-DTEND:20261116T093000Z
-LOCATION:Salle S2.7
-DTSTART:20261116T073000Z
-SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
-UID:ApEdtElv_67873
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
-DTEND:20261123T093000Z
-LOCATION:Salle S2.7
-DTSTART:20261123T073000Z
-SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
-UID:ApEdtElv_67874
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nIntervenant(s) : BASSET Hugo\nSalle(s) : Salle S2.18
@@ -1127,7 +1108,31 @@ SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_68872
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : BASSO-LACROIX Stella\, JACQUART Maxime\nSalle(s) : Salle S2.7
+DTEND:20261116T093000Z
+LOCATION:Salle S2.7
+DTSTART:20261116T073000Z
+SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
+UID:ApEdtElv_67873
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : BASSO-LACROIX Stella\, JACQUART Maxime\nSalle(s) : Salle S2.7
+DTEND:20261123T093000Z
+LOCATION:Salle S2.7
+DTSTART:20261123T073000Z
+SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
+UID:ApEdtElv_67874
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : MARI Elisa\, MEDDAS Amir\, MESSINA Riccardo\nSalle(s) : Salle S2.7
+DTEND:20261109T093000Z
+LOCATION:Salle S2.7
+DTSTART:20261109T073000Z
+SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
+UID:ApEdtElv_67872
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : BASSO-LACROIX Stella\, Jehel Anaël\nSalle(s) : Salle S2.7
 DTEND:20261207T093000Z
 LOCATION:Salle S2.7
 DTSTART:20261207T073000Z
@@ -1135,7 +1140,7 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67876
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.7
+DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : BASSO-LACROIX Stella\, MARI Elisa\, MESSINA Riccardo\nSalle(s) : Salle S2.7
 DTEND:20261214T093000Z
 LOCATION:Salle S2.7
 DTSTART:20261214T073000Z
@@ -1143,12 +1148,12 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67877
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9\, Salle S2.11\, Salle S2.9B
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9B\, Salle S2.9\, Salle S2.11
 DTEND:20260907T153000Z
-LOCATION:Salle S2.9\, Salle S2.11\, Salle S2.9B
+LOCATION:Salle S2.9B\, Salle S2.9\, Salle S2.11
 DTSTART:20260907T120000Z
 SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
-UID:ApEdtElv_68074
+UID:ApEdtElv_68075
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\, LEBBE Renata\nSalle(s) : Salle S2.11\, Salle S2.11A\, Salle S2.11B
@@ -1327,12 +1332,12 @@ SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_67057
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.10
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : LEBBE Renata\nSalle(s) : Salle S2.10\, Salle S2.8
 DTEND:20260908T104500Z
-LOCATION:Salle S2.8\, Salle S2.10
+LOCATION:Salle S2.10\, Salle S2.8
 DTSTART:20260908T084500Z
 SUMMARY:Anglais (TD)
-UID:ApEdtElv_68057
+UID:ApEdtElv_68055
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.10
@@ -1487,9 +1492,9 @@ SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67296
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.3A
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle N2.1
 DTEND:20270106T111500Z
-LOCATION:Salle S2.3A
+LOCATION:Salle N2.1
 DTSTART:20270106T094500Z
 SUMMARY:Mathématiques & signal 2 (TD)
 UID:ApEdtElv_68718
