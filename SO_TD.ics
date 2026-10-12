@@ -332,7 +332,7 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_66474
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 1\nType : Travaux dirigés\nCode : 5N-029-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : PISSONDES Jean-Claude\nSalle(s) : Salle N2.1
+DESCRIPTION:Matière : Mathématiques & signal 1\nType : Travaux dirigés\nCode : 5N-029-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : Honoré Nathan\nSalle(s) : Salle N2.1
 DTEND:20261007T083000Z
 LOCATION:Salle N2.1
 DTSTART:20261007T070000Z
@@ -660,28 +660,28 @@ SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
 UID:ApEdtElv_69915
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : LEBBE Renata\nSalle(s) : Salle S2.10\, Salle S2.8
+DTEND:20260908T083000Z
+LOCATION:Salle S2.10\, Salle S2.8
+DTSTART:20260908T063000Z
+SUMMARY:Anglais (TD)
+UID:ApEdtElv_68054
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : LEBBE Renata\nSalle(s) : Salle S2.10\, Salle S2.8
+DTEND:20260908T104500Z
+LOCATION:Salle S2.10\, Salle S2.8
+DTSTART:20260908T084500Z
+SUMMARY:Anglais (TD)
+UID:ApEdtElv_68055
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Mécanique quantique\nType : Travaux dirigés\nCode : 5N-024-PHY\nGroupe : 1A Groupe 4\nIntervenant(s) : MARTIN Romain\nSalle(s) : Salle S2.14
 DTEND:20261125T143000Z
 LOCATION:Salle S2.14
 DTSTART:20261125T130000Z
 SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_68856
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.10
-DTEND:20260908T104500Z
-LOCATION:Salle S2.8\, Salle S2.10
-DTSTART:20260908T084500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_68057
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.10
-DTEND:20260908T083000Z
-LOCATION:Salle S2.8\, Salle S2.10
-DTSTART:20260908T063000Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_68056
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : PAPAGIANNOULI Eirini\nSalle(s) : Salle S2.14

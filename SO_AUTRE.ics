@@ -200,11 +200,11 @@ SUMMARY:PAQUES - Catégories concernées : pour tout le monde (Jour férié)
 UID:EvtEcole_640
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9\, Salle S2.9B\, Salle S2.11
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9B\, Salle S2.11\, Salle S2.9
 DTEND:20260907T153000Z
-LOCATION:Salle S2.9\, Salle S2.9B\, Salle S2.11
+LOCATION:Salle S2.9B\, Salle S2.11\, Salle S2.9
 DTSTART:20260907T120000Z
 SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
-UID:ApEdtElv_68074
+UID:ApEdtElv_68075
 END:VEVENT
 END:VCALENDAR
