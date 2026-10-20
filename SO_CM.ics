@@ -4,7 +4,7 @@ X-WR-TIMEZONE:Europe/Paris
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : BOFFETY Matthieu\nSalle(s) : Auditorium Palaiseau
 DTEND:20261109T143000Z
 LOCATION:Auditorium Palaiseau
 DTSTART:20261109T130000Z
@@ -12,7 +12,7 @@ SUMMARY:Mathématiques & signal 2 (CM)
 UID:ApEdtElv_69278
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : PISSONDES Jean-Claude\nSalle(s) : Auditorium Palaiseau
 DTEND:20261116T143000Z
 LOCATION:Auditorium Palaiseau
 DTSTART:20261116T130000Z
@@ -348,7 +348,7 @@ SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66978
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : PISSONDES Jean-Claude\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261123T143000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261123T130000Z
@@ -356,7 +356,7 @@ SUMMARY:Mathématiques & signal 2 (CM)
 UID:ApEdtElv_68040
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : PISSONDES Jean-Claude\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261207T143000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261207T130000Z
@@ -364,7 +364,7 @@ SUMMARY:Mathématiques & signal 2 (CM)
 UID:ApEdtElv_68042
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : BOFFETY Matthieu\nSalle(s) : Auditorium Palaiseau
 DTEND:20261214T143000Z
 LOCATION:Auditorium Palaiseau
 DTSTART:20261214T130000Z
@@ -492,7 +492,7 @@ SUMMARY:réunion de lancement du CFA - 1A S5 Réunion et Présentation (CM)
 UID:ApEdtElv_65968
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : BOFFETY Matthieu\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261102T143000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261102T130000Z

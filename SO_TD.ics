@@ -516,7 +516,7 @@ SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68893
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.16
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : BOFFETY Matthieu\nSalle(s) : Salle S2.16
 DTEND:20261209T161500Z
 LOCATION:Salle S2.16
 DTSTART:20261209T144500Z
@@ -524,7 +524,7 @@ SUMMARY:Mathématiques & signal 2 (TD)
 UID:ApEdtElv_68880
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.16
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : BOFFETY Matthieu\nSalle(s) : Salle S2.16
 DTEND:20261216T161500Z
 LOCATION:Salle S2.16
 DTSTART:20261216T144500Z
@@ -700,7 +700,7 @@ SUMMARY:Mécanique quantique (TD)
 UID:ApEdtElv_69294
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle N2.1
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : PISSONDES Jean-Claude\nSalle(s) : Salle N2.1
 DTEND:20270106T111500Z
 LOCATION:Salle N2.1
 DTSTART:20270106T094500Z
@@ -708,7 +708,7 @@ SUMMARY:Mathématiques & signal 2 (TD)
 UID:ApEdtElv_68718
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : PISSONDES Jean-Claude\nSalle(s) : Salle S2.18
 DTEND:20261125T161500Z
 LOCATION:Salle S2.18
 DTSTART:20261125T144500Z

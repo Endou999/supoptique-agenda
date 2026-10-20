@@ -4,7 +4,7 @@ X-WR-TIMEZONE:Europe/Paris
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : BOFFETY Matthieu\nSalle(s) : Auditorium Palaiseau
 DTEND:20261109T143000Z
 LOCATION:Auditorium Palaiseau
 DTSTART:20261109T130000Z
@@ -12,7 +12,7 @@ SUMMARY:Mathématiques & signal 2 (CM)
 UID:ApEdtElv_69278
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : PISSONDES Jean-Claude\nSalle(s) : Auditorium Palaiseau
 DTEND:20261116T143000Z
 LOCATION:Auditorium Palaiseau
 DTSTART:20261116T130000Z
@@ -411,9 +411,9 @@ SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67210
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.3\, Salle S2.18\, Salle S2.9\, Salle S2.9B
 DTEND:20260909T100000Z
-LOCATION:Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.3B\, Salle S2.3\, Salle S2.18\, Salle S2.9\, Salle S2.9B
 DTSTART:20260909T063000Z
 SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69210
@@ -1028,7 +1028,7 @@ SUMMARY:Optoélectronique (TP)
 UID:ApEdtElv_69518
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.16
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : BOFFETY Matthieu\nSalle(s) : Salle S2.16
 DTEND:20261209T161500Z
 LOCATION:Salle S2.16
 DTSTART:20261209T144500Z
@@ -1036,7 +1036,7 @@ SUMMARY:Mathématiques & signal 2 (TD)
 UID:ApEdtElv_68880
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.16
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : BOFFETY Matthieu\nSalle(s) : Salle S2.16
 DTEND:20261216T161500Z
 LOCATION:Salle S2.16
 DTSTART:20261216T144500Z
@@ -1156,12 +1156,12 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67877
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9\, Salle S2.11\, Salle S2.9B
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9B\, Salle S2.11\, Salle S2.9
 DTEND:20260907T153000Z
-LOCATION:Salle S2.9\, Salle S2.11\, Salle S2.9B
+LOCATION:Salle S2.9B\, Salle S2.11\, Salle S2.9
 DTSTART:20260907T120000Z
 SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
-UID:ApEdtElv_68074
+UID:ApEdtElv_68075
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\, LEBBE Renata\nSalle(s) : Salle S2.11\, Salle S2.11A\, Salle S2.11B
@@ -1404,7 +1404,7 @@ SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66978
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : PISSONDES Jean-Claude\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261123T143000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261123T130000Z
@@ -1412,7 +1412,7 @@ SUMMARY:Mathématiques & signal 2 (CM)
 UID:ApEdtElv_68040
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : PISSONDES Jean-Claude\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261207T143000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261207T130000Z
@@ -1420,7 +1420,7 @@ SUMMARY:Mathématiques & signal 2 (CM)
 UID:ApEdtElv_68042
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : BOFFETY Matthieu\nSalle(s) : Auditorium Palaiseau
 DTEND:20261214T143000Z
 LOCATION:Auditorium Palaiseau
 DTSTART:20261214T130000Z
@@ -1476,7 +1476,7 @@ SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67296
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle N2.1
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : PISSONDES Jean-Claude\nSalle(s) : Salle N2.1
 DTEND:20270106T111500Z
 LOCATION:Salle N2.1
 DTSTART:20270106T094500Z
@@ -1484,7 +1484,7 @@ SUMMARY:Mathématiques & signal 2 (TD)
 UID:ApEdtElv_68718
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nSalle(s) : Salle S2.18
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : PISSONDES Jean-Claude\nSalle(s) : Salle S2.18
 DTEND:20261125T161500Z
 LOCATION:Salle S2.18
 DTSTART:20261125T144500Z
@@ -1556,7 +1556,7 @@ SUMMARY:réunion de lancement du CFA - 1A S5 Réunion et Présentation (CM)
 UID:ApEdtElv_65968
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : BOFFETY Matthieu\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261102T143000Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261102T130000Z
