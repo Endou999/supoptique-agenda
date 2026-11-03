@@ -5,14 +5,6 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : BOFFETY Matthieu\nSalle(s) : Auditorium Palaiseau
-DTEND:20261109T143000Z
-LOCATION:Auditorium Palaiseau
-DTSTART:20261109T130000Z
-SUMMARY:Mathématiques & signal 2 (CM)
-UID:ApEdtElv_69278
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : PISSONDES Jean-Claude\nSalle(s) : Auditorium Palaiseau
 DTEND:20261116T143000Z
 LOCATION:Auditorium Palaiseau
 DTSTART:20261116T130000Z
@@ -332,6 +324,14 @@ SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
 UID:ApEdtElv_69908
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : PISSONDES Jean-Claude\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20261118T161500Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20261118T144500Z
+SUMMARY:Mathématiques & signal 2 (CM)
+UID:ApEdtElv_70489
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : LV2 Allemand - Allemand Niveau C sem5\nType : Travaux dirigés\nCode : 5N-003-FHP\nGroupe : 1A-ALLEMAND C\nIntervenant(s) : PALMINO Beate\nSalle(s) : Salle S2.14
 DTEND:20261113T093000Z
 LOCATION:Salle S2.14
@@ -340,20 +340,20 @@ SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
 UID:ApEdtElv_69909
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : Cifuentes Miguel\nSalle(s) : Salle S2.18
-DTEND:20260911T133000Z
-LOCATION:Salle S2.18
-DTSTART:20260911T120000Z
-SUMMARY:Optoélectronique (TD)
-UID:ApEdtElv_68909
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Travaux dirigés\nCode : 5N-025-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : BAUDRY Aloïs\nSalle(s) : Salle S2.18
 DTEND:20261216T093000Z
 LOCATION:Salle S2.18
 DTSTART:20261216T080000Z
 SUMMARY:Optique ondulatoire - Optique physique (TD)
 UID:ApEdtElv_68353
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-024-PHY\nGroupe : Tous les étudiants\nIntervenant(s) : TUALLE BROURI Rosa\nSalle(s) : Auditorium Palaiseau
+DTEND:20261109T143000Z
+LOCATION:Auditorium Palaiseau
+DTSTART:20261109T130000Z
+SUMMARY:Mécanique quantique (CM)
+UID:ApEdtElv_70488
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
@@ -378,6 +378,14 @@ LOCATION:Salle S2.14
 DTSTART:20260923T084500Z
 SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68357
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : Cifuentes Miguel\nSalle(s) : Salle S2.18
+DTEND:20260911T133000Z
+LOCATION:Salle S2.18
+DTSTART:20260911T120000Z
+SUMMARY:Optoélectronique (TD)
+UID:ApEdtElv_68909
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : PAQUES - Catégories concernées : pour tout le monde\nType : Jour férié
@@ -411,9 +419,9 @@ SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67210
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.3\, Salle S2.18\, Salle S2.9\, Salle S2.9B
 DTEND:20260909T100000Z
-LOCATION:Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.3B\, Salle S2.3\, Salle S2.18\, Salle S2.9\, Salle S2.9B
 DTSTART:20260909T063000Z
 SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69210
@@ -544,9 +552,9 @@ SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67584
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
 DTEND:20260908T153000Z
-LOCATION:Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
 DTSTART:20260908T120000Z
 SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69205
@@ -832,9 +840,9 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_67673
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.16
 DTEND:20261116T114500Z
-LOCATION:Salle S2.8
+LOCATION:Salle S2.16
 DTSTART:20261116T094500Z
 SUMMARY:Anglais (TD)
 UID:ApEdtElv_67674
@@ -1156,12 +1164,12 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67877
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle S2.9B\, Salle S2.9
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9B\, Salle S2.11\, Salle S2.9
 DTEND:20260907T153000Z
-LOCATION:Salle S2.11\, Salle S2.9B\, Salle S2.9
+LOCATION:Salle S2.9B\, Salle S2.11\, Salle S2.9
 DTSTART:20260907T120000Z
 SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
-UID:ApEdtElv_68076
+UID:ApEdtElv_68075
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\, LEBBE Renata\nSalle(s) : Salle S2.11\, Salle S2.11A\, Salle S2.11B
@@ -1196,12 +1204,12 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_68061
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.14
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : LEBBE Renata\nSalle(s) : Salle S2.14\, Salle S2.8
 DTEND:20260908T133000Z
-LOCATION:Salle S2.8\, Salle S2.14
+LOCATION:Salle S2.14\, Salle S2.8
 DTSTART:20260908T113000Z
 SUMMARY:Anglais (TD)
-UID:ApEdtElv_68062
+UID:ApEdtElv_68063
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.14
@@ -1378,14 +1386,6 @@ LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261106T094500Z
 SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66975
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : Mécanique quantique\nType : Cours magistral\nCode : 5N-024-PHY\nGroupe : Tous les étudiants\nIntervenant(s) : TUALLE BROURI Rosa\nSalle(s) : Amphithéâtre Palaiseau
-DTEND:20261118T161500Z
-LOCATION:Amphithéâtre Palaiseau
-DTSTART:20261118T144500Z
-SUMMARY:Mécanique quantique (CM)
-UID:ApEdtElv_67176
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : PAPAGIANNOULI Eirini\nSalle(s) : Amphithéâtre Palaiseau
