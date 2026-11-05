@@ -12,6 +12,13 @@ SUMMARY:EXAMEN M1 - Mathématiques & signal 1 (Exam)
 UID:ApEdtElv_70136
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Examen Colorimétrie\nType : Examen écrit\nCode : 5N-715-PHO\nGroupe : Tous les étudiants
+DTEND:20261218T104500Z
+DTSTART:20261218T094500Z
+SUMMARY:Examen Colorimétrie (Exam)
+UID:ApEdtElv_70498
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : PARTIEL OI - Optique instrumentale\nType : Examen écrit\nCode : 5N-022-PHO\nGroupe : Groupe 1\nIntervenant(s) : Baron Isabelle\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261022T143000Z
 LOCATION:Amphithéâtre Palaiseau

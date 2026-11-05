@@ -4,28 +4,28 @@ X-WR-TIMEZONE:Europe/Paris
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
+DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : DANIAULT Louis\, Jehel Anaël\, MARI Elisa
 DTEND:20261208T121500Z
 DTSTART:20261208T073000Z
 SUMMARY:Optique physique (TP)
 UID:ApEdtElv_69647
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
+DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : Honoré Nathan\, MARI Elisa\, Wolf Ricarda
 DTEND:20261117T121500Z
 DTSTART:20261117T073000Z
 SUMMARY:Optique physique (TP)
 UID:ApEdtElv_69650
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
+DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : Jehel Anaël\, MARI Elisa\, Wolf Ricarda
 DTEND:20261103T121500Z
 DTSTART:20261103T073000Z
 SUMMARY:Optique physique (TP)
 UID:ApEdtElv_69652
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
+DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : Honoré Nathan\, LANDRU Mal\, Wolf Ricarda
 DTEND:20261013T111500Z
 DTSTART:20261013T063000Z
 SUMMARY:Optique physique (TP)
@@ -39,7 +39,7 @@ SUMMARY:Optoélectronique (TP)
 UID:ApEdtElv_69516
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
+DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : BERNARD Jeanne\, CARON Lucas\, Honoré Nathan
 DTEND:20260929T111500Z
 DTSTART:20260929T063000Z
 SUMMARY:Optique physique (TP)
@@ -53,7 +53,7 @@ SUMMARY:Optoélectronique (TP)
 UID:ApEdtElv_69520
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
+DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : CARON Lucas\, LEVY Maé\, NANNINI Corentin
 DTEND:20260915T111500Z
 DTSTART:20260915T063000Z
 SUMMARY:Optique physique (TP)

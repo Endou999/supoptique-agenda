@@ -164,12 +164,11 @@ SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
 UID:ApEdtElv_69913
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
-DTEND:20261005T104500Z
-LOCATION:Salle S2.8
-DTSTART:20261005T084500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_66492
+DESCRIPTION:Matière : Examen Colorimétrie\nType : Examen écrit\nCode : 5N-715-PHO\nGroupe : Tous les étudiants
+DTEND:20261218T104500Z
+DTSTART:20261218T094500Z
+SUMMARY:Examen Colorimétrie (Exam)
+UID:ApEdtElv_70498
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : BERNARD Jeanne\nSalle(s) : Salle S2.14
@@ -180,12 +179,12 @@ SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68361
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : LV2 Allemand - Allemand Niveau C sem5\nType : Travaux dirigés\nCode : 5N-003-FHP\nGroupe : 1A-ALLEMAND C\nIntervenant(s) : PALMINO Beate\nSalle(s) : Salle S2.14
-DTEND:20261002T083000Z
-LOCATION:Salle S2.14
-DTSTART:20261002T063000Z
-SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
-UID:ApEdtElv_69914
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
+DTEND:20261005T104500Z
+LOCATION:Salle S2.8
+DTSTART:20261005T084500Z
+SUMMARY:Anglais (TD)
+UID:ApEdtElv_66492
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : DUPUIS Guillaume\nSalle(s) : Salle S2.14
@@ -196,12 +195,12 @@ SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68363
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
-DTEND:20260928T104500Z
-LOCATION:Salle S2.8
-DTSTART:20260928T084500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_66493
+DESCRIPTION:Matière : LV2 Allemand - Allemand Niveau C sem5\nType : Travaux dirigés\nCode : 5N-003-FHP\nGroupe : 1A-ALLEMAND C\nIntervenant(s) : PALMINO Beate\nSalle(s) : Salle S2.14
+DTEND:20261002T083000Z
+LOCATION:Salle S2.14
+DTSTART:20261002T063000Z
+SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
+UID:ApEdtElv_69914
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : DUPUIS Guillaume\nSalle(s) : Salle S2.14
@@ -920,28 +919,28 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66536
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
+DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : Honoré Nathan\, MARI Elisa\, Wolf Ricarda
 DTEND:20261117T121500Z
 DTSTART:20261117T073000Z
 SUMMARY:Optique physique (TP)
 UID:ApEdtElv_69650
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
+DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : Jehel Anaël\, MARI Elisa\, Wolf Ricarda
 DTEND:20261103T121500Z
 DTSTART:20261103T073000Z
 SUMMARY:Optique physique (TP)
 UID:ApEdtElv_69652
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
+DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : Honoré Nathan\, LANDRU Mal\, Wolf Ricarda
 DTEND:20261013T111500Z
 DTSTART:20261013T063000Z
 SUMMARY:Optique physique (TP)
 UID:ApEdtElv_69655
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
+DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : BERNARD Jeanne\, CARON Lucas\, Honoré Nathan
 DTEND:20260929T111500Z
 DTSTART:20260929T063000Z
 SUMMARY:Optique physique (TP)
@@ -955,7 +954,7 @@ SUMMARY:Optoélectronique (TP)
 UID:ApEdtElv_69520
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
+DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : CARON Lucas\, LEVY Maé\, NANNINI Corentin
 DTEND:20260915T111500Z
 DTSTART:20260915T063000Z
 SUMMARY:Optique physique (TP)
@@ -999,7 +998,15 @@ SUMMARY:Optoélectronique (TP)
 UID:ApEdtElv_69528
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
+DTEND:20260928T104500Z
+LOCATION:Salle S2.8
+DTSTART:20260928T084500Z
+SUMMARY:Anglais (TD)
+UID:ApEdtElv_66493
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : DANIAULT Louis\, Jehel Anaël\, MARI Elisa
 DTEND:20261208T121500Z
 DTSTART:20261208T073000Z
 SUMMARY:Optique physique (TP)
@@ -1164,12 +1171,12 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67877
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9B\, Salle S2.9\, Salle S2.11
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle S2.9\, Salle S2.9B
 DTEND:20260907T153000Z
-LOCATION:Salle S2.9B\, Salle S2.9\, Salle S2.11
+LOCATION:Salle S2.11\, Salle S2.9\, Salle S2.9B
 DTSTART:20260907T120000Z
 SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
-UID:ApEdtElv_68075
+UID:ApEdtElv_68076
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\, LEBBE Renata\nSalle(s) : Salle S2.11\, Salle S2.11A\, Salle S2.11B
@@ -1204,12 +1211,12 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_68061
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : LEBBE Renata\nSalle(s) : Salle S2.14\, Salle S2.8
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.14
 DTEND:20260908T133000Z
-LOCATION:Salle S2.14\, Salle S2.8
+LOCATION:Salle S2.8\, Salle S2.14
 DTSTART:20260908T113000Z
 SUMMARY:Anglais (TD)
-UID:ApEdtElv_68063
+UID:ApEdtElv_68062
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.14
@@ -1540,7 +1547,7 @@ SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66968
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : PAPAGIANNOULI Eirini\nSalle(s) : Amphithéâtre Palaiseau
+DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261104T161500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261104T144500Z
