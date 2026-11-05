@@ -84,12 +84,12 @@ SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
 UID:ApEdtElv_69911
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : GUENAUX Nicolas\nSalle(s) : Salle S2.9B
-DTEND:20261016T151500Z
-LOCATION:Salle S2.9B
-DTSTART:20261016T134500Z
-SUMMARY:Optique instrumentale (TD)
-UID:ApEdtElv_67492
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
+DTEND:20261005T104500Z
+LOCATION:Salle S2.8
+DTSTART:20261005T084500Z
+SUMMARY:Anglais (TD)
+UID:ApEdtElv_66492
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
@@ -98,6 +98,14 @@ LOCATION:Salle S2.8
 DTSTART:20260928T084500Z
 SUMMARY:Anglais (TD)
 UID:ApEdtElv_66493
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : GUENAUX Nicolas\nSalle(s) : Salle S2.9B
+DTEND:20261016T151500Z
+LOCATION:Salle S2.9B
+DTSTART:20261016T134500Z
+SUMMARY:Optique instrumentale (TD)
+UID:ApEdtElv_67492
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : LV2 Allemand - Allemand Niveau C sem5\nType : Travaux dirigés\nCode : 5N-003-FHP\nGroupe : 1A-ALLEMAND C\nIntervenant(s) : PALMINO Beate\nSalle(s) : Salle S2.14
@@ -140,12 +148,12 @@ SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
 UID:ApEdtElv_69913
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
-DTEND:20261005T104500Z
-LOCATION:Salle S2.8
-DTSTART:20261005T084500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_66492
+DESCRIPTION:Matière : LV2 Allemand - Allemand Niveau C sem5\nType : Travaux dirigés\nCode : 5N-003-FHP\nGroupe : 1A-ALLEMAND C\nIntervenant(s) : PALMINO Beate\nSalle(s) : Salle S2.14
+DTEND:20261002T083000Z
+LOCATION:Salle S2.14
+DTSTART:20261002T063000Z
+SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
+UID:ApEdtElv_69914
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : BERNARD Jeanne\nSalle(s) : Salle S2.14
@@ -157,11 +165,11 @@ UID:ApEdtElv_68361
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : LV2 Allemand - Allemand Niveau C sem5\nType : Travaux dirigés\nCode : 5N-003-FHP\nGroupe : 1A-ALLEMAND C\nIntervenant(s) : PALMINO Beate\nSalle(s) : Salle S2.14
-DTEND:20261002T083000Z
+DTEND:20260918T083000Z
 LOCATION:Salle S2.14
-DTSTART:20261002T063000Z
+DTSTART:20260918T063000Z
 SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
-UID:ApEdtElv_69914
+UID:ApEdtElv_69916
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : DUPUIS Guillaume\nSalle(s) : Salle S2.14
@@ -170,14 +178,6 @@ LOCATION:Salle S2.14
 DTSTART:20261104T094500Z
 SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68363
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : LV2 Allemand - Allemand Niveau C sem5\nType : Travaux dirigés\nCode : 5N-003-FHP\nGroupe : 1A-ALLEMAND C\nIntervenant(s) : PALMINO Beate\nSalle(s) : Salle S2.14
-DTEND:20260918T083000Z
-LOCATION:Salle S2.14
-DTSTART:20260918T063000Z
-SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
-UID:ApEdtElv_69916
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : DUPUIS Guillaume\nSalle(s) : Salle S2.14

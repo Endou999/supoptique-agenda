@@ -236,6 +236,14 @@ SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_67057
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : réunion de lancement du CFA - 1A S5 Réunion et Présentation\nType : Séminaire\nCode : N-000-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20261015T123000Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20261015T113000Z
+SUMMARY:réunion de lancement du CFA - 1A S5 Réunion et Présentation (CM)
+UID:ApEdtElv_65968
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261014T151500Z
 LOCATION:Amphithéâtre Palaiseau
@@ -460,20 +468,19 @@ SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_66968
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Forum des sites et parcours - 1A S5 Réunion et Présentation - En Amphi et Audito le matin. - En S2.11 l'après-midi\nType : Séminaire\nCode : N-000-FHP\nGroupe : Tous les étudiants
+DTEND:20261120T163000Z
+DTSTART:20261120T093000Z
+SUMMARY:Forum des sites et parcours - 1A S5 Réunion et Présentation - En Amphi et Audito le matin. - En S2.11 l'après-midi (CM)
+UID:ApEdtElv_70500
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Optique ondulatoire - Optique physique\nType : Cours magistral\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20261104T161500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20261104T144500Z
 SUMMARY:Optique ondulatoire - Optique physique (CM)
 UID:ApEdtElv_67035
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matière : réunion de lancement du CFA - 1A S5 Réunion et Présentation\nType : Séminaire\nCode : N-000-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : JOSSE Vincent\nSalle(s) : Amphithéâtre Palaiseau
-DTEND:20261015T123000Z
-LOCATION:Amphithéâtre Palaiseau
-DTSTART:20261015T113000Z
-SUMMARY:réunion de lancement du CFA - 1A S5 Réunion et Présentation (CM)
-UID:ApEdtElv_65968
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Mathématiques & signal 2\nType : Cours magistral\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : BOFFETY Matthieu\nSalle(s) : Amphithéâtre Palaiseau

@@ -179,12 +179,11 @@ SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68361
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
-DTEND:20261005T104500Z
-LOCATION:Salle S2.8
-DTSTART:20261005T084500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_66492
+DESCRIPTION:Matière : Forum de la photonique - 1A S5 Réunion et Présentation\nType : Séminaire\nCode : N-000-FHP\nGroupe : Tous les étudiants
+DTEND:20261119T164500Z
+DTSTART:20261119T080000Z
+SUMMARY:Forum de la photonique - 1A S5 Réunion et Présentation (Séminaire)
+UID:ApEdtElv_70499
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : DUPUIS Guillaume\nSalle(s) : Salle S2.14
@@ -418,9 +417,9 @@ SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67210
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.3\, Salle S2.18\, Salle S2.9\, Salle S2.9B
 DTEND:20260909T100000Z
-LOCATION:Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.3B\, Salle S2.3\, Salle S2.18\, Salle S2.9\, Salle S2.9B
 DTSTART:20260909T063000Z
 SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69210
@@ -551,9 +550,9 @@ SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67584
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
 DTEND:20260908T153000Z
-LOCATION:Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
 DTSTART:20260908T120000Z
 SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69205
@@ -999,6 +998,14 @@ UID:ApEdtElv_69528
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
+DTEND:20261005T104500Z
+LOCATION:Salle S2.8
+DTSTART:20261005T084500Z
+SUMMARY:Anglais (TD)
+UID:ApEdtElv_66492
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
 DTEND:20260928T104500Z
 LOCATION:Salle S2.8
 DTSTART:20260928T084500Z
@@ -1041,6 +1048,13 @@ DTEND:20261006T111500Z
 DTSTART:20261006T063000Z
 SUMMARY:Optoélectronique (TP)
 UID:ApEdtElv_69518
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Forum des sites et parcours - 1A S5 Réunion et Présentation - En Amphi et Audito le matin. - En S2.11 l'après-midi\nType : Séminaire\nCode : N-000-FHP\nGroupe : Tous les étudiants
+DTEND:20261120T163000Z
+DTSTART:20261120T093000Z
+SUMMARY:Forum des sites et parcours - 1A S5 Réunion et Présentation - En Amphi et Audito le matin. - En S2.11 l'après-midi (CM)
+UID:ApEdtElv_70500
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Mathématiques & signal 2\nType : Travaux dirigés\nCode : 5N-085-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : BOFFETY Matthieu\nSalle(s) : Salle S2.16
@@ -1171,12 +1185,12 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67877
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9B\, Salle S2.9\, Salle S2.11
 DTEND:20260907T153000Z
-LOCATION:Salle S2.11\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.9B\, Salle S2.9\, Salle S2.11
 DTSTART:20260907T120000Z
 SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
-UID:ApEdtElv_68076
+UID:ApEdtElv_68075
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\, LEBBE Renata\nSalle(s) : Salle S2.11\, Salle S2.11A\, Salle S2.11B
