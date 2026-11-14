@@ -233,15 +233,23 @@ def get_edt():
     headers = {
         "User-Agent": "Mozilla/5.0 (SupOptique-Agenda-Sync)"
     }
-    response = requests.get(ICAL_URL, headers=headers, timeout=30)
-    response.raise_for_status()
+    try:
+        response = requests.get(ICAL_URL, headers=headers, timeout=30)
+        response.raise_for_status()
+    except requests.exceptions.RequestException as err:
+        print(f"[AVERTISSEMENT] Synapses est temporairement inaccessible : {err}")
+        print("Les fichiers .ics existants sont conservés sans modification.")
+        return []
 
     content = response.text
     # Isoler la partie VCALENDAR
     cal_start = content.find("BEGIN:VCALENDAR")
     cal_end = content.rfind("END:VCALENDAR")
-    if cal_start != -1 and cal_end != -1:
-        content = content[cal_start : cal_end + len("END:VCALENDAR")]
+    if cal_start == -1 or cal_end == -1:
+        print("[AVERTISSEMENT] Le flux reçu ne contient pas de calendrier valide (maintenance Synapses probable).")
+        print("Les fichiers .ics existants sont conservés sans modification.")
+        return []
+    content = content[cal_start : cal_end + len("END:VCALENDAR")]
 
     source_cal = ics.Calendar(content)
     total_events = len(source_cal.events)
