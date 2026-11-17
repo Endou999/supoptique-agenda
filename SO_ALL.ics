@@ -417,9 +417,9 @@ SUMMARY:Mécanique quantique (CM)
 UID:ApEdtElv_67210
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.3\, Salle S2.18\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
 DTEND:20260909T100000Z
-LOCATION:Salle S2.3B\, Salle S2.3\, Salle S2.18\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.3B\, Salle S2.18\, Salle S2.3\, Salle S2.9\, Salle S2.9B
 DTSTART:20260909T063000Z
 SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69210
@@ -918,11 +918,27 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66536
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Examen écrit\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B\, Salle S2.11\, Salle S2.11A\, Salle S2.11B
+DTEND:20270112T143000Z
+LOCATION:Auditorium Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B\, Salle S2.11\, Salle S2.11A\, Salle S2.11B
+DTSTART:20270112T130000Z
+SUMMARY:Mathématiques & signal 2 (Exam)
+UID:ApEdtElv_70650
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : Honoré Nathan\, MARI Elisa\, Wolf Ricarda
 DTEND:20261117T121500Z
 DTSTART:20261117T073000Z
 SUMMARY:Optique physique (TP)
 UID:ApEdtElv_69650
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Mathématiques & signal 2\nType : Examen écrit\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9\, Salle S2.9A\, Salle S2.9B
+DTEND:20270112T150000Z
+LOCATION:Salle S2.9\, Salle S2.9A\, Salle S2.9B
+DTSTART:20270112T130000Z
+SUMMARY:Mathématiques & signal 2 (Exam)
+UID:ApEdtElv_70652
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : Jehel Anaël\, MARI Elisa\, Wolf Ricarda
@@ -1185,12 +1201,12 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67877
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9\, Salle S2.11\, Salle S2.9B
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle S2.9B\, Salle S2.9
 DTEND:20260907T153000Z
-LOCATION:Salle S2.9\, Salle S2.11\, Salle S2.9B
+LOCATION:Salle S2.11\, Salle S2.9B\, Salle S2.9
 DTSTART:20260907T120000Z
 SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
-UID:ApEdtElv_68074
+UID:ApEdtElv_68076
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\, LEBBE Renata\nSalle(s) : Salle S2.11\, Salle S2.11A\, Salle S2.11B
@@ -1225,12 +1241,12 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_68061
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.14
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : LEBBE Renata\nSalle(s) : Salle S2.14\, Salle S2.8
 DTEND:20260908T133000Z
-LOCATION:Salle S2.8\, Salle S2.14
+LOCATION:Salle S2.14\, Salle S2.8
 DTSTART:20260908T113000Z
 SUMMARY:Anglais (TD)
-UID:ApEdtElv_68062
+UID:ApEdtElv_68063
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.14
