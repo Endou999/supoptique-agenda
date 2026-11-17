@@ -20,27 +20,68 @@ SUMMARY:PARTIEL OI - Optique instrumentale (Exam)
 UID:ApEdtElv_70182
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Examen écrit\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B\, Salle S2.11\, Salle S2.11A\, Salle S2.11B
-DTEND:20270112T143000Z
-LOCATION:Auditorium Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B\, Salle S2.11\, Salle S2.11A\, Salle S2.11B
-DTSTART:20270112T130000Z
-SUMMARY:Mathématiques & signal 2 (Exam)
+DESCRIPTION:Matière : Examen M2 - Mathématiques & signal 2\nType : Examen écrit\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B\, Salle S2.9\, Salle S2.9A\, Salle S2.9B
+DTEND:20270113T143000Z
+LOCATION:Amphithéâtre Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B\, Salle S2.9\, Salle S2.9A\, Salle S2.9B
+DTSTART:20270113T130000Z
+SUMMARY:Examen M2 - Mathématiques & signal 2 (Exam)
 UID:ApEdtElv_70650
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Examen écrit\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9\, Salle S2.9A\, Salle S2.9B
-DTEND:20270112T150000Z
-LOCATION:Salle S2.9\, Salle S2.9A\, Salle S2.9B
-DTSTART:20270112T130000Z
-SUMMARY:Mathématiques & signal 2 (Exam)
-UID:ApEdtElv_70652
+DESCRIPTION:Matière : Examen M2 - Mathématiques & signal 2\nType : Examen écrit\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Salle N2.1
+DTEND:20270113T150000Z
+LOCATION:Salle N2.1
+DTSTART:20270113T130000Z
+SUMMARY:Examen M2 - Mathématiques & signal 2 (Exam)
+UID:ApEdtElv_70653
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Examen Colorimétrie\nType : Examen écrit\nCode : 5N-715-PHO\nGroupe : Tous les étudiants
-DTEND:20261218T104500Z
-DTSTART:20261218T094500Z
+DESCRIPTION:Matière : Examen Colorimétrie\nType : Examen écrit\nCode : 5N-715-PHO\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau\, Auditorium Palaiseau
+DTEND:20270108T140000Z
+LOCATION:Amphithéâtre Palaiseau\, Auditorium Palaiseau
+DTSTART:20270108T130000Z
 SUMMARY:Examen Colorimétrie (Exam)
 UID:ApEdtElv_70498
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Examen Colorimétrie\nType : Examen écrit\nCode : 5N-715-PHO\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3\, Salle S2.3A\, Salle S2.3B
+DTEND:20270108T142000Z
+LOCATION:Salle S2.3\, Salle S2.3A\, Salle S2.3B
+DTSTART:20270108T130000Z
+SUMMARY:Examen Colorimétrie (Exam)
+UID:ApEdtElv_70661
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Examen OO - Optique physique\nType : Examen écrit\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau\, Amphithéâtre Palaiseau
+DTEND:20270111T150000Z
+LOCATION:Auditorium Palaiseau\, Amphithéâtre Palaiseau
+DTSTART:20270111T130000Z
+SUMMARY:Examen OO - Optique physique (Exam)
+UID:ApEdtElv_70662
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Examen OO - Optique physique\nType : Examen écrit\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3\, Salle S2.3A\, Salle S2.3B
+DTEND:20270111T154000Z
+LOCATION:Salle S2.3\, Salle S2.3A\, Salle S2.3B
+DTSTART:20270111T130000Z
+SUMMARY:Examen OO - Optique physique (Exam)
+UID:ApEdtElv_70664
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Examen OI - Optique instrumentale\nType : Examen écrit\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle S2.11A\, Salle S2.11B\, Auditorium Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B\, Salle S2.9\, Salle S2.9A\, Salle S2.9B
+DTEND:20270112T150000Z
+LOCATION:Salle S2.11\, Salle S2.11A\, Salle S2.11B\, Auditorium Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B\, Salle S2.9\, Salle S2.9A\, Salle S2.9B
+DTSTART:20270112T120000Z
+SUMMARY:Examen OI - Optique instrumentale (Exam)
+UID:ApEdtElv_70670
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Examen MQ - Mécanique quantique\nType : Examen écrit\nCode : 5N-024-PHY\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau\, Auditorium Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B
+DTEND:20270114T150000Z
+LOCATION:Amphithéâtre Palaiseau\, Auditorium Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B
+DTSTART:20270114T120000Z
+SUMMARY:Examen MQ - Mécanique quantique (Exam)
+UID:ApEdtElv_70671
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Présentation de la médiathèque - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : EDWARDS Marie Laure\nSalle(s) : Amphithéâtre Palaiseau

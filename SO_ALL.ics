@@ -156,9 +156,10 @@ SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
 UID:ApEdtElv_69913
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Examen Colorimétrie\nType : Examen écrit\nCode : 5N-715-PHO\nGroupe : Tous les étudiants
-DTEND:20261218T104500Z
-DTSTART:20261218T094500Z
+DESCRIPTION:Matière : Examen Colorimétrie\nType : Examen écrit\nCode : 5N-715-PHO\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau\, Auditorium Palaiseau
+DTEND:20270108T140000Z
+LOCATION:Amphithéâtre Palaiseau\, Auditorium Palaiseau
+DTSTART:20270108T130000Z
 SUMMARY:Examen Colorimétrie (Exam)
 UID:ApEdtElv_70498
 END:VEVENT
@@ -542,9 +543,9 @@ SUMMARY:Optique instrumentale (CM)
 UID:ApEdtElv_67584
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : 2Tonnes - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
 DTEND:20260908T153000Z
-LOCATION:Salle S2.18\, Salle S2.3B\, Salle S2.3\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.18\, Salle S2.3\, Salle S2.3B\, Salle S2.9\, Salle S2.9B
 DTSTART:20260908T120000Z
 SUMMARY:2Tonnes - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_69205
@@ -806,12 +807,20 @@ SUMMARY:Jury de diplomation - salle Chavel - Jury de diplomation promotion 2026 
 UID:EvtEcole_609
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : BOUHASSANE Maëlle\nSalle(s) : 503 salle 1.22
-DTEND:20260918T151500Z
-LOCATION:503 salle 1.22
-DTSTART:20260918T134500Z
-SUMMARY:Optoélectronique (TD)
-UID:ApEdtElv_67429
+DESCRIPTION:Matière : Examen OI - Optique instrumentale\nType : Examen écrit\nCode : 5N-022-PHO\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle S2.11A\, Salle S2.11B\, Auditorium Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B\, Salle S2.9\, Salle S2.9A\, Salle S2.9B
+DTEND:20270112T150000Z
+LOCATION:Salle S2.11\, Salle S2.11A\, Salle S2.11B\, Auditorium Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B\, Salle S2.9\, Salle S2.9A\, Salle S2.9B
+DTSTART:20270112T120000Z
+SUMMARY:Examen OI - Optique instrumentale (Exam)
+UID:ApEdtElv_70670
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Examen MQ - Mécanique quantique\nType : Examen écrit\nCode : 5N-024-PHY\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau\, Auditorium Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B
+DTEND:20270114T150000Z
+LOCATION:Amphithéâtre Palaiseau\, Auditorium Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B
+DTSTART:20270114T120000Z
+SUMMARY:Examen MQ - Mécanique quantique (Exam)
+UID:ApEdtElv_70671
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
@@ -822,6 +831,14 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_67672
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Optoélectronique\nType : Travaux dirigés\nCode : 5N-027-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : BOUHASSANE Maëlle\nSalle(s) : 503 salle 1.22
+DTEND:20260918T151500Z
+LOCATION:503 salle 1.22
+DTSTART:20260918T134500Z
+SUMMARY:Optoélectronique (TD)
+UID:ApEdtElv_67429
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
 DTEND:20261109T114500Z
 LOCATION:Salle S2.8
@@ -830,20 +847,20 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_67673
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.16
-DTEND:20261116T114500Z
-LOCATION:Salle S2.16
-DTSTART:20261116T094500Z
-SUMMARY:Anglais (TD)
-UID:ApEdtElv_67674
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8
 DTEND:20261123T114500Z
 LOCATION:Salle S2.8
 DTSTART:20261123T094500Z
 SUMMARY:Anglais (TD)
 UID:ApEdtElv_67675
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.16
+DTEND:20261116T114500Z
+LOCATION:Salle S2.16
+DTSTART:20261116T094500Z
+SUMMARY:Anglais (TD)
+UID:ApEdtElv_67674
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : 1A-ANG9\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.18
@@ -878,6 +895,22 @@ SUMMARY:LV2 Allemand - Allemand Niveau C sem5 (TD)
 UID:ApEdtElv_69418
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Examen Colorimétrie\nType : Examen écrit\nCode : 5N-715-PHO\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3\, Salle S2.3A\, Salle S2.3B
+DTEND:20270108T142000Z
+LOCATION:Salle S2.3\, Salle S2.3A\, Salle S2.3B
+DTSTART:20270108T130000Z
+SUMMARY:Examen Colorimétrie (Exam)
+UID:ApEdtElv_70661
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Examen OO - Optique physique\nType : Examen écrit\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau\, Amphithéâtre Palaiseau
+DTEND:20270111T150000Z
+LOCATION:Auditorium Palaiseau\, Amphithéâtre Palaiseau
+DTSTART:20270111T130000Z
+SUMMARY:Examen OO - Optique physique (Exam)
+UID:ApEdtElv_70662
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Présentation psychologue - Odile Feuillatre - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20260917T104500Z
 LOCATION:Amphithéâtre Palaiseau
@@ -886,12 +919,28 @@ SUMMARY:Présentation psychologue - Odile Feuillatre - 1A S5 Réunion et Présen
 UID:ApEdtElv_69419
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Matière : Examen OO - Optique physique\nType : Examen écrit\nCode : 5N-025-PHO\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.3\, Salle S2.3A\, Salle S2.3B
+DTEND:20270111T154000Z
+LOCATION:Salle S2.3\, Salle S2.3A\, Salle S2.3B
+DTSTART:20270111T130000Z
+SUMMARY:Examen OO - Optique physique (Exam)
+UID:ApEdtElv_70664
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Mathématiques & signal 1\nType : Cours magistral\nCode : 5N-029-SCI\nGroupe : Tous les étudiants\nIntervenant(s) : GOUDAIL François\nSalle(s) : Amphithéâtre Palaiseau
 DTEND:20260916T151500Z
 LOCATION:Amphithéâtre Palaiseau
 DTSTART:20260916T134500Z
 SUMMARY:Maths & Signal 1 (CM)
 UID:ApEdtElv_66829
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Présentation TP & sécurité laser - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : BALEMBOIS Francois\, BERNARD Fabienne\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20270108T111500Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20270108T094500Z
+SUMMARY:Présentation TP & sécurité laser - 1A S5 Réunion et Présentation (TP)
+UID:ApEdtElv_70666
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1\nType : Travaux dirigés\nCode : 5N-028-SCI\nGroupe : 1A Groupe 4\nIntervenant(s) : Jehel Anaël\, MESSINA Riccardo\nSalle(s) : Salle S2.7
@@ -910,11 +959,11 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_66536
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Examen écrit\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Auditorium Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B\, Salle S2.11\, Salle S2.11A\, Salle S2.11B
-DTEND:20270112T143000Z
-LOCATION:Auditorium Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B\, Salle S2.11\, Salle S2.11A\, Salle S2.11B
-DTSTART:20270112T130000Z
-SUMMARY:Mathématiques & signal 2 (Exam)
+DESCRIPTION:Matière : Examen M2 - Mathématiques & signal 2\nType : Examen écrit\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Amphithéâtre Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B\, Salle S2.9\, Salle S2.9A\, Salle S2.9B
+DTEND:20270113T143000Z
+LOCATION:Amphithéâtre Palaiseau\, Salle S2.3\, Salle S2.3A\, Salle S2.3B\, Salle S2.9\, Salle S2.9A\, Salle S2.9B
+DTSTART:20270113T130000Z
+SUMMARY:Examen M2 - Mathématiques & signal 2 (Exam)
 UID:ApEdtElv_70650
 END:VEVENT
 BEGIN:VEVENT
@@ -925,19 +974,19 @@ SUMMARY:Optique physique (TP)
 UID:ApEdtElv_69650
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Mathématiques & signal 2\nType : Examen écrit\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.9\, Salle S2.9A\, Salle S2.9B
-DTEND:20270112T150000Z
-LOCATION:Salle S2.9\, Salle S2.9A\, Salle S2.9B
-DTSTART:20270112T130000Z
-SUMMARY:Mathématiques & signal 2 (Exam)
-UID:ApEdtElv_70652
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : Jehel Anaël\, MARI Elisa\, Wolf Ricarda
 DTEND:20261103T121500Z
 DTSTART:20261103T073000Z
 SUMMARY:Optique physique (TP)
 UID:ApEdtElv_69652
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matière : Examen M2 - Mathématiques & signal 2\nType : Examen écrit\nCode : 5N-085-SCI\nGroupe : Tous les étudiants\nSalle(s) : Salle N2.1
+DTEND:20270113T150000Z
+LOCATION:Salle N2.1
+DTSTART:20270113T130000Z
+SUMMARY:Examen M2 - Mathématiques & signal 2 (Exam)
+UID:ApEdtElv_70653
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : Honoré Nathan\, LANDRU Mal\, Wolf Ricarda
@@ -1193,9 +1242,9 @@ SUMMARY:ONIP1 - Outils Numériques pour l'Ingénieur·e en Physique - 1 (TD)
 UID:ApEdtElv_67877
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle S2.9\, Salle S2.9B
+DESCRIPTION:Matière : Fres climat - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nSalle(s) : Salle S2.11\, Salle S2.9B\, Salle S2.9
 DTEND:20260907T153000Z
-LOCATION:Salle S2.11\, Salle S2.9\, Salle S2.9B
+LOCATION:Salle S2.11\, Salle S2.9B\, Salle S2.9
 DTSTART:20260907T120000Z
 SUMMARY:Fres climat - 1A S5 Réunion et Présentation (Présentation)
 UID:ApEdtElv_68076

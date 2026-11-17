@@ -4,6 +4,14 @@ X-WR-TIMEZONE:Europe/Paris
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Matière : Présentation TP & sécurité laser - 1A S5 Réunion et Présentation\nType : Présentation\nCode : N-000-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : BALEMBOIS Francois\, BERNARD Fabienne\nSalle(s) : Amphithéâtre Palaiseau
+DTEND:20270108T111500Z
+LOCATION:Amphithéâtre Palaiseau
+DTSTART:20270108T094500Z
+SUMMARY:Présentation TP & sécurité laser - 1A S5 Réunion et Présentation (TP)
+UID:ApEdtElv_70666
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Matière : Optique physique\nType : Travaux pratiques\nCode : 5N-026-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : DANIAULT Louis\, Jehel Anaël\, MARI Elisa
 DTEND:20261208T121500Z
 DTSTART:20261208T073000Z
