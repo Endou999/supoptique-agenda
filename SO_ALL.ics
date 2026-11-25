@@ -203,7 +203,7 @@ SUMMARY:Optique instrumentale (TD)
 UID:ApEdtElv_68365
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : DUPUIS Guillaume\nSalle(s) : Salle S2.16
+DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : BONIN Gonzague\nSalle(s) : Salle S2.16
 DTEND:20261125T111500Z
 LOCATION:Salle S2.16
 DTSTART:20261125T094500Z
@@ -1085,7 +1085,7 @@ SUMMARY:Maths & Signal 1 (CM)
 UID:ApEdtElv_66890
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : BONIN Gonzague\nSalle(s) : Salle S2.14
+DESCRIPTION:Matière : Optique instrumentale\nType : Travaux dirigés\nCode : 5N-022-PHO\nGroupe : 1A Groupe 4\nIntervenant(s) : DUPUIS Guillaume\nSalle(s) : Salle S2.14
 DTEND:20261210T093000Z
 LOCATION:Salle S2.14
 DTSTART:20261210T080000Z
@@ -1282,12 +1282,12 @@ SUMMARY:Anglais (TD)
 UID:ApEdtElv_68061
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : LEBBE Renata\nSalle(s) : Salle S2.14\, Salle S2.8
+DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.14
 DTEND:20260908T133000Z
-LOCATION:Salle S2.14\, Salle S2.8
+LOCATION:Salle S2.8\, Salle S2.14
 DTSTART:20260908T113000Z
 SUMMARY:Anglais (TD)
-UID:ApEdtElv_68063
+UID:ApEdtElv_68062
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Matière : Anglais\nType : Travaux dirigés\nCode : 5N-004-FHP\nGroupe : Tous les étudiants\nIntervenant(s) : DE GROULARD Alexia\nSalle(s) : Salle S2.8\, Salle S2.14
